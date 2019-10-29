@@ -1,0 +1,2002 @@
+"","Rank","Company.Name","Country","Revenues...millions.","Profits...millions.","Assets...millions.","Market.Value..As.of.3.29.18...m."
+"1",1,"ICBC","China","$165,300.00",43700,4210900,311000
+"2",2,"China Construction Bank","China","$143,200.00",37200,3631600,261200
+"3",3,"JPMorgan Chase","United States","$118,200.00",26500,2609800,387700
+"4",4,"Berkshire Hathaway","United States","$235,200.00",39700,702700,491900
+"5",5,"Agricultural Bank of China","China","$129,300.00",29600,3439300,184100
+"6",6,"Bank of America","United States","$103,000.00",20300,2328500,313500
+"7",7,"Wells Fargo","United States","$102,100.00",21700,1915400,265300
+"8",8,"Apple","United States","$247,500.00",53300,367500,926900
+"9",9,"Bank of China","China","$118,200.00",26400,3204200,158600
+"10",10,"Ping An Insurance Group","China","$141,600.00",13900,1066400,181400
+"11",11,"Royal Dutch Shell","Netherlands","$321,800.00",15200,410700,306500
+"12",12,"Toyota Motor","Japan","$265,200.00",22500,473000,200700
+"13",13,"ExxonMobil","United States","$230,100.00",20400,348800,344100
+"14",14,"Samsung Electronics","South Korea","$224,600.00",41000,293200,325900
+"15",15,"AT&T","United States","$159,200.00",30600,446300,198300
+"16",16,"Volkswagen Group","Germany","$272,000.00",13100,531400,101400
+"17",17,"HSBC Holdings","United Kingdom","$63,200.00",10800,2652100,200300
+"18",18,"Verizon Communications","United States","$128,000.00",31200,264500,200900
+"19",19,"BNP Paribas","France","$117,800.00",8500,2353900,93600
+"20",20,"Microsoft","United States","$103,300.00",14200,245500,750600
+"21",21,"Chevron","United States","$139,400.00",10200,256400,248100
+"22",22,"Allianz","Germany","$122,500.00",7700,1128600,100400
+"23",23,"Alphabet","United States","$117,900.00",16600,206900,766400
+"24",24,"Walmart","United States","$500,300.00",9900,204500,246200
+"25",25,"China Mobile","Hong Kong","$109,500.00",16900,233700,192600
+"26",26,"Total","France","$155,800.00",8400,257000,168000
+"27",27,"Sinopec","China","$326,600.00",8000,249900,138600
+"28",28,"UnitedHealth Group","United States","$207,600.00",11200,155600,229000
+"29",29,"Daimler","Germany","$193,200.00",11800,323200,85700
+"30",30,"PetroChina","China","$282,400.00",4100,381100,220200
+"31",31,"Banco Santander","Spain","$56,100.00",8000,1769100,106300
+"32",32,"China Merchants Bank","China","$49,900.00",11000,993700,112400
+"33",33,"AXA Group","France","$149,900.00",6700,1029100,64100
+"34",34,"Comcast","United States","$86,900.00",23300,190900,146800
+"35",35,"China Life Insurance","China","$97,100.00",6000,474200,104100
+"36",36,"BP","United Kingdom","$251,900.00",4300,275300,152600
+"37",37,"Mitsubishi UFJ Financial","Japan","$51,800.00",8900,2774200,86200
+"38",38,"Bank of Communications","China","$59,100.00",10700,1472900,66600
+"39",39,"Softbank","Japan","$82,600.00",9200,293200,84900
+"40",40,"BMW Group","Germany","$114,400.00",10200,241300,72300
+"41",41,"Anheuser-Busch InBev","Belgium","$56,400.00",7900,248600,184300
+"42",42,"Royal Bank of Canada","Canada","$40,500.00",8800,1040300,113400
+"43",43,"Gazprom","Russia","$112,200.00",12200,316800,57800
+"44",44,"Pfizer","United States","$52,700.00",21700,164600,207700
+"45",45,"Itaú Unibanco Holding","Brazil","$62,300.00",7500,437600,87000
+"46",46,"Nippon Telegraph & Tel","Japan","$104,800.00",7700,191100,96100
+"47",47,"Sberbank","Russia","$46,300.00",13400,470900,86300
+"48",48,"Nestle","Switzerland","$91,200.00",7300,133800,237300
+"49",49,"Intel","United States","$64,000.00",11100,128600,254800
+"50",50,"Morgan Stanley","United States","$45,600.00",6900,858500,97700
+"51",51,"Siemens","Germany","$94,500.00",7100,163400,112500
+"52",52,"Boeing","United States","$95,800.00",9200,113500,199500
+"53",53,"Amazon.com","United States","$193,200.00",3900,126400,777800
+"54",54,"TD Bank Group","Canada","$35,700.00",7900,1028100,107800
+"55",55,"Procter & Gamble","United States","$66,400.00",10100,124400,184500
+"56",56,"ING Group","Netherlands","$56,600.00",5500,1016100,62200
+"57",57,"Postal Savings Bank Of China","China","$56,100.00",7600,1466600,55300
+"58",58,"Honda Motor","Japan","$138,600.00",9600,181900,58900
+"59",59,"Sumitomo Mitsui Financial","Japan","$49,100.00",7200,1847700,58300
+"60",60,"Goldman Sachs Group","United States","$43,700.00",4900,973500,91800
+"61",61,"Intesa Sanpaolo","Italy","$42,500.00",8300,956900,63100
+"62",62,"Industrial Bank","China","$48,000.00",8800,1023100,53500
+"63",63,"Novartis","Switzerland","$50,300.00",8100,135500,203000
+"64",64,"Glencore International","Switzerland","$205,400.00",5800,135600,75500
+"65",65,"Banco Bradesco","Brazil","$76,500.00",4700,370500,61300
+"66",66,"Prudential","United Kingdom","$111,500.00",3100,655100,67800
+"67",67,"Ford Motor","United States","$159,600.00",7800,267200,44600
+"68",68,"IBM","United States","$80,100.00",5700,125300,132300
+"69",69,"CVS Health","United States","$185,900.00",6600,135100,65500
+"70",70,"Shanghai Pudong Development","China","$48,300.00",8200,974800,50700
+"71",71,"Commonwealth Bank","Australia","$33,000.00",7600,752400,93500
+"72",72,"Walt Disney","United States","$56,800.00",11500,97900,152100
+"73",73,"Prudential Financial","United States","$61,100.00",7800,829700,42000
+"74",74,"Rosneft","Russia","$94,800.00",3900,214200,69000
+"75",75,"Enel","Italy","$86,700.00",4600,193600,61600
+"76",76,"Citic Pacific","Hong Kong","$57,800.00",5600,962100,44400
+"77",77,"Facebook","United States","$44,600.00",17800,88900,541500
+"78",78,"MetLife","United States","$64,100.00",4400,712600,47500
+"79",79,"Deutsche Telekom","Germany","$84,500.00",3900,179100,80800
+"80",80,"SAIC Motor","China","$136,600.00",5400,118400,63800
+"81",81,"Alibaba","China","$37,900.00",9600,114000,499400
+"82",82,"BASF","Germany","$75,100.00",7100,98900,95300
+"83",83,"Reliance Industries","India","$60,800.00",5600,125200,93100
+"84",84,"China State Construction Engineering","China","$162,300.00",5100,257600,40400
+"85",85,"China Citic Bank","China","$43,600.00",6500,894000,46500
+"86",86,"Sony","Japan","$77,100.00",4400,179300,59900
+"87",87,"Westpac Banking Group","Australia","$29,400.00",6400,668800,76200
+"88",88,"Bank of Nova Scotia","Canada","$28,800.00",6500,752500,75000
+"89",89,"British American Tobacco","United Kingdom","$26,100.00",48300,190800,120000
+"90",90,"China Minsheng Banking","China","$42,700.00",7400,954000,43500
+"91",91,"Equinor","Norway","$65,100.00",4900,115400,90200
+"92",92,"AIA Group","Hong Kong","$31,900.00",6100,213200,111400
+"93",93,"Roche Holding","Switzerland","$54,200.00",8800,78700,189700
+"94",94,"Lloyds Banking Group","United Kingdom","$33,600.00",4000,1098600,65400
+"95",95,"Eni","Italy","$75,500.00",3900,143100,70700
+"96",96,"Charter Communications","United States","$42,100.00",9900,146200,64800
+"97",97,"Nissan Motor","Japan","$106,900.00",7400,173700,39700
+"98",98,"LukOil","Russia","$99,900.00",7200,92000,60400
+"99",99,"United Technologies","United States","$61,200.00",4500,98800,99600
+"100",100,"Bayer","Germany","$44,400.00",8400,92700,104600
+"101",101,"AIRBUS","Netherlands","$74,700.00",3000,138300,92100
+"102",102,"PepsiCo","United States","$64,000.00",4900,81900,138100
+"103",103,"Unilever","Netherlands","$60,600.00",6800,72400,155800
+"104",104,"ANZ","Australia","$28,700.00",5300,717300,61200
+"105",105,"Hon Hai Precision","Taiwan","$154,700.00",4600,114500,49500
+"106",106,"Tencent Holdings","China","$35,300.00",10600,85200,491300
+"107",107,"Oracle","United States","$39,500.00",3700,138200,191100
+"108",108,"BHP Billiton","Australia","$41,200.00",4700,112600,133200
+"109",109,"US Bancorp","United States","$24,100.00",6400,460100,84600
+"110",110,"Zurich Insurance Group","Switzerland","$64,100.00",3000,401100,48000
+"111",111,"Rio Tinto","United Kingdom","$40,000.00",8700,95700,99300
+"112",112,"Mitsubishi","Japan","$68,300.00",5100,150800,46400
+"113",113,"UniCredit Group","Italy","$29,000.00",6100,1004800,47800
+"114",114,"Mizuho Financial","Japan","$29,700.00",5100,1850400,46200
+"115",115,"EDF","France","$78,500.00",2900,337100,43000
+"116",116,"BBVA-Banco Bilbao Vizcaya","Spain","$29,200.00",4300,843000,54500
+"117",117,"Sanofi","France","$39,500.00",4300,119900,94900
+"118",118,"Taiwan Semiconductor","Taiwan","$33,100.00",11500,70300,203000
+"119",119,"American Express","United States","$37,600.00",3100,180000,87300
+"120",120,"Saudi Basic Industries","Saudi Arabia","$41,900.00",5000,90500,91800
+"121",121,"Home Depot","United States","$100,900.00",8600,44500,219400
+"122",122,"DowDuPont","United States","$80,600.00",1700,192400,155300
+"123",123,"Telefónica","Spain","$59,700.00",3400,141200,51100
+"124",124,"Walgreens Boots Alliance","United States","$124,000.00",4100,70800,63600
+"125",125,"National Australia Bank","Australia","$25,600.00",4100,610600,58200
+"126",126,"Kraft Heinz Company","United States","$26,200.00",11100,120800,72200
+"127",127,"China Evergrande Group","China","$46,000.00",3600,270500,42000
+"128",128,"Fiat Chrysler Automobiles","United Kingdom","$128,800.00",4500,117600,35000
+"129",129,"Anthem","United States","$90,100.00",4100,73300,59200
+"130",130,"Chubb","Switzerland","$32,600.00",3900,168800,63400
+"131",131,"China Shenhua Energy","China","$36,400.00",6700,91200,64600
+"132",132,"Vale","Brazil","$34,100.00",4600,94400,77400
+"133",133,"China Vanke","China","$36,600.00",4200,194600,43800
+"134",134,"PNC Financial Services","United States","$18,500.00",5500,379200,70900
+"135",135,"Renault","France","$66,300.00",5800,132000,30800
+"136",136,"Generali Group","Italy","$93,100.00",2400,647200,30800
+"137",137,"AbbVie","United States","$29,600.00",6400,69300,165300
+"138",138,"China Pacific Insurance","China","$50,900.00",2500,191100,48000
+"139",139,"Bank of Montreal","Canada","$22,200.00",3700,593300,50900
+"140",140,"Banco do Brasil","Brazil","$55,000.00",3400,412800,27800
+"141",141,"China Everbright Bank","China","$30,300.00",4800,661700,32200
+"142",142,"CK Hutchison","Hong Kong","$31,900.00",4500,140700,45400
+"143",143,"Country Garden Holdings","China","$33,800.00",3900,161200,45200
+"144",144,"KDDI","Japan","$45,500.00",5200,61800,65500
+"145",145,"Johnson & Johnson","United States","$78,700.00",1200,156600,341300
+"146",146,"Iberdrola","Spain","$37,800.00",3300,138000,49400
+"147",147,"Hyundai Motor","South Korea","$85,900.00",3000,164700,31600
+"148",148,"Credit Agricole","France","$21,100.00",3600,1861600,43900
+"149",149,"Hitachi","Japan","$84,500.00",3300,95000,38500
+"150",150,"Christian Dior","France","$49,300.00",2500,87400,76400
+"151",151,"Phillips 66","United States","$92,700.00",5100,52100,54900
+"152",152,"ArcelorMittal","Luxembourg","$68,600.00",4600,85300,36800
+"153",153,"United Parcel Service","United States","$67,700.00",5100,44500,99700
+"154",154,"Medtronic","Ireland","$29,700.00",2800,95800,116000
+"155",155,"FedEx","United States","$63,900.00",4500,51900,67000
+"156",156,"PTT PCL","Thailand","$58,800.00",3900,68500,50900
+"157",157,"VINCI","France","$46,100.00",3100,83800,56800
+"158",158,"CNOOC","Hong Kong","$27,600.00",3600,94800,78800
+"159",159,"Capital One Financial","United States","$30,600.00",2500,362900,45100
+"160",160,"Time Warner","United States","$31,500.00",5500,69000,73400
+"161",161,"Société Générale","France","$27,800.00",2600,1531200,38300
+"162",162,"Bank of New York Mellon","United States","$17,300.00",4300,373600,57800
+"163",163,"UBS","Switzerland","$40,300.00",1500,960100,61800
+"164",164,"Visa","United States","$19,400.00",9000,69000,295100
+"165",165,"Brookfield Asset Management","Canada","$47,600.00",2300,195900,38900
+"166",166,"Caterpillar","United States","$48,500.00",2200,78000,92600
+"167",167,"Aetna","United States","$60,600.00",3500,59200,57100
+"168",168,"Royal Bank of Scotland","United Kingdom","$21,500.00",2500,1036000,47900
+"169",169,"China Communications Construction","China","$71,200.00",3000,135600,28800
+"170",170,"McKesson","United States","$205,400.00",4800,64200,30800
+"171",171,"Aviva","United Kingdom","$63,700.00",1900,580600,29500
+"172",172,"Express Scripts","United States","$100,200.00",4600,53400,40900
+"173",173,"Valero Energy","United States","$98,600.00",4200,49400,49400
+"174",174,"China Telecom","China","$54,200.00",2700,101500,38600
+"175",175,"Union Pacific","United States","$21,600.00",11000,57800,109700
+"176",176,"Duke Energy","United States","$24,000.00",3000,138500,56200
+"177",177,"Jardine Matheson","Hong Kong","$39,500.00",3800,82800,44200
+"178",178,"Enbridge","Canada","$33,600.00",2200,129400,57200
+"179",179,"Exelon","United States","$34,500.00",3400,117000,39200
+"180",180,"ENGIE","France","$73,300.00",1600,180500,41800
+"181",181,"SAP","Germany","$27,400.00",4900,51000,138900
+"182",182,"NextEra Energy","United States","$16,400.00",8200,94300,75800
+"183",183,"Mitsui","Japan","$44,100.00",3800,106300,30300
+"184",184,"Manulife","Canada","$40,100.00",1700,549700,38500
+"185",185,"Allstate","United States","$38,000.00",3500,113300,33900
+"186",186,"BlackRock","United States","$13,400.00",5200,216000,86600
+"187",187,"Legal & General Group","United Kingdom","$52,100.00",2400,676600,22600
+"188",188,"China Railway Group","China","$106,000.00",2500,132600,25300
+"189",189,"Costco Wholesale","United States","$136,000.00",3000,38700,85900
+"190",190,"Tokio Marine Holdings","Japan","$47,600.00",1800,206900,35900
+"191",191,"Merck & Co.","United States","$40,800.00",1600,86000,160600
+"192",192,"Orange","France","$46,400.00",1800,115700,48300
+"193",193,"Philip Morris International","United States","$29,600.00",6000,43100,126200
+"194",194,"Dai-ichi Life Insurance","Japan","$57,600.00",2200,482000,22800
+"195",195,"Aflac","United States","$21,800.00",4700,147400,35000
+"196",196,"Canadian Imperial Bank","Canada","$16,600.00",3600,478400,40000
+"197",197,"Gilead Sciences","United States","$24,800.00",3500,65400,86000
+"198",198,"Twenty-First Century Fox","United States","$29,200.00",4000,54000,70300
+"199",199,"Nordea Bank","Sweden","$15,200.00",3500,713500,43000
+"200",200,"Broadcom","United States","$18,800.00",7800,54500,1e+05
+"201",201,"SK Hynix","South Korea","$29,300.00",10700,46100,56800
+"202",202,"HDFC Bank","India","$15,700.00",2900,169100,77600
+"203",203,"Suncor Energy","Canada","$25,700.00",3000,70800,65100
+"204",204,"Continental","Germany","$51,400.00",3500,47800,53200
+"205",205,"Deutsche Post","Germany","$68,200.00",3100,46700,50800
+"206",206,"Itochu","Japan","$49,700.00",3600,81500,28800
+"207",207,"L'Oréal Group","France","$29,400.00",4300,42400,134200
+"208",208,"Lockheed Martin","United States","$51,600.00",2400,46600,92500
+"209",209,"Coca-Cola","United States","$33,700.00",1400,93300,179300
+"210",210,"Honeywell International","United States","$41,400.00",1800,60900,110100
+"211",211,"Lowe's","United States","$68,600.00",3400,35300,72200
+"212",212,"Mondelez International","United States","$26,200.00",3200,64500,57900
+"213",213,"AstraZeneca","United Kingdom","$22,400.00",3000,63400,90600
+"214",214,"3M","United States","$32,300.00",4100,38600,121800
+"215",215,"Amgen","United States","$23,000.00",2200,71200,115800
+"216",216,"Marathon Petroleum","United States","$71,600.00",3400,50400,35700
+"217",217,"Altria Group","United States","$19,600.00",10700,43900,104500
+"218",218,"China Railway Construction","China","$103,200.00",2500,131100,20300
+"219",219,"KB Financial Group","South Korea","$29,000.00",3100,409200,21700
+"220",220,"Cigna","United States","$42,600.00",2600,63100,42300
+"221",221,"Micron Technology","United States","$25,900.00",10000,41300,60100
+"222",222,"Denso","Japan","$46,100.00",2900,54200,40600
+"223",223,"JXTG Holdings","Japan","$92,900.00",3300,79500,22000
+"224",224,"Danske Bank","Denmark","$18,300.00",3000,583800,29100
+"225",225,"Delta Air Lines","United States","$42,100.00",3500,54100,37100
+"226",226,"GlaxoSmithKline","United Kingdom","$39,800.00",1400,78800,98600
+"227",227,"People's Insurance","China","$70,000.00",2400,147400,20200
+"228",228,"DBS Group","Singapore","$11,800.00",3400,404100,56600
+"229",229,"Posco","South Korea","$55,300.00",2600,75600,26800
+"230",230,"E.ON","Germany","$43,000.00",4900,67900,24200
+"231",231,"Panasonic","Japan","$72,000.00",2100,59200,34900
+"232",232,"Fresenius","Germany","$39,300.00",2100,65800,44100
+"233",233,"Repsol","Spain","$49,700.00",2300,71600,30200
+"234",234,"Travelers","United States","$29,300.00",2100,103700,35500
+"235",235,"East Japan Railway","Japan","$26,600.00",2600,76600,37900
+"236",236,"Baoshan Iron & Steel","China","$40,700.00",3100,56200,31700
+"237",237,"Qatar National Bank","Qatar","$13,800.00",3700,228900,36400
+"238",238,"Volvo Group","Sweden","$41,500.00",2600,53100,37100
+"239",239,"Danone","France","$27,800.00",2800,53200,48900
+"240",240,"Thermo Fisher Scientific","United States","$22,000.00",2300,56600,87100
+"241",241,"McDonald's","United States","$22,300.00",5400,33700,129900
+"242",242,"Target","United States","$71,900.00",2900,39000,37600
+"243",243,"Petrobras","Brazil","$90,000.00",642,248000,92600
+"244",244,"KBC Group","Belgium","$13,800.00",2800,351000,36000
+"245",245,"Midea Group","China","$37,800.00",2700,40100,55700
+"246",246,"Shire","Ireland","$15,300.00",4400,67900,50300
+"247",247,"HP","United States","$54,200.00",3900,35200,37300
+"248",248,"EXOR","Netherlands","$161,800.00",1600,196700,18300
+"249",249,"National Grid","United Kingdom","$18,400.00",3400,77300,38500
+"250",250,"Central Japan Railway","Japan","$16,400.00",3600,83800,38700
+"251",251,"General Dynamics","United States","$31,100.00",2900,37200,60600
+"252",252,"Canon","Japan","$36,700.00",2200,46800,46400
+"253",253,"Sumitomo","Japan","$43,600.00",2800,73100,22000
+"254",254,"Orix","Japan","$25,800.00",2800,107400,23100
+"255",255,"BB&T","United States","$12,300.00",2800,220700,42900
+"256",256,"Schneider Electric","France","$27,900.00",2400,47900,48400
+"257",257,"Air Liquide","France","$23,000.00",2500,49300,55100
+"258",258,"Japan Tobacco","Japan","$19,400.00",3500,46500,55000
+"259",259,"Peugeot","France","$73,600.00",2200,69800,21400
+"260",260,"Cathay Financial","Taiwan","$23,600.00",1900,296900,23100
+"261",261,"Anglo American","United Kingdom","$26,200.00",3200,54600,32000
+"262",262,"Bank of Beijing","China","$15,900.00",2900,380300,23000
+"263",263,"Seven & I Holdings","Japan","$54,200.00",1600,51500,38900
+"264",264,"ABB","Switzerland","$35,000.00",2100,43600,51300
+"265",265,"Sun Life Financial","Canada","$21,800.00",1800,206000,25900
+"266",266,"Oil & Natural Gas","India","$18,700.00",3100,65500,35700
+"267",267,"Danaher","United States","$18,800.00",2600,47100,71100
+"268",268,"Sun Hung Kai Properties","Hong Kong","$11,300.00",6900,87000,46900
+"269",269,"Poly Real Estate","China","$20,500.00",2400,121000,25600
+"270",270,"Indian Oil","India","$52,900.00",3000,46600,24400
+"271",271,"Deere & Company","United States","$30,500.00",1400,66600,47700
+"272",272,"Diageo","United Kingdom","$15,700.00",4100,40700,89400
+"273",273,"Charles Schwab","United States","$9,400.00",2600,248300,80200
+"274",274,"Shinhan Financial Group","South Korea","$17,600.00",2500,406600,21200
+"275",275,"HCA Holdings","United States","$44,400.00",2700,37300,35600
+"276",276,"Tesco","United Kingdom","$75,400.00",1300,61800,32700
+"277",277,"Aegon","Netherlands","$35,200.00",2600,452400,14100
+"278",278,"CRRC","China","$31,300.00",1600,59200,41000
+"279",279,"Munich Re","Germany","$63,400.00",756,323500,34800
+"280",280,"Royal Ahold Delhaize N.V.","Netherlands","$72,400.00",2200,42200,28800
+"281",281,"SK Holdings","South Korea","$82,500.00",1500,102500,20000
+"282",282,"BT Group","United Kingdom","$30,800.00",2200,61100,29200
+"283",283,"Reckitt Benckiser Group","United Kingdom","$14,800.00",4000,50100,55000
+"284",284,"Oversea-Chinese Banking","Singapore","$10,100.00",3200,351200,41200
+"285",285,"Safran","France","$19,100.00",4500,38700,48600
+"286",286,"Southern Company","United States","$23,800.00",1200,111600,45500
+"287",287,"CNP Assurances","France","$45,800.00",1400,491500,17100
+"288",288,"Accenture","Ireland","$39,100.00",3600,23100,101000
+"289",289,"Huaxia Bank","China","$18,700.00",3000,404400,17200
+"290",290,"Inditex","Spain","$28,900.00",3800,25200,99500
+"291",291,"LyondellBasell Industries","United Kingdom","$35,800.00",5300,26900,44100
+"292",292,"State Street","United States","$11,800.00",2300,250300,37300
+"293",293,"Henkel","Germany","$23,100.00",2900,36200,54100
+"294",294,"Gree Electric Appliances","China","$23,900.00",3600,34700,45100
+"295",295,"Korea Electric Power","South Korea","$52,900.00",1100,169800,21500
+"296",296,"Johnson Controls International","Ireland","$30,700.00",2100,50000,33600
+"297",297,"Saint-Gobain","France","$46,000.00",1800,51500,29800
+"298",298,"Mitsubishi Electric","Japan","$40,000.00",2500,40100,32400
+"299",299,"CaixaBank","Spain","$11,700.00",2300,472800,30700
+"300",300,"Baidu","China","$13,400.00",3500,42800,94100
+"301",301,"Ecopetrol","Colombia","$19,400.00",2800,42500,45700
+"302",302,"Dominion Resources","United States","$12,700.00",3000,77400,42200
+"303",303,"Fubon Financial","Taiwan","$26,600.00",1800,232100,17800
+"304",304,"Nippon Steel & Sumitomo Metal","Japan","$51,100.00",1800,71400,19900
+"305",305,"Northrop Grumman","United States","$26,300.00",2100,34800,56700
+"306",306,"Humana","United States","$54,300.00",1800,33500,39200
+"307",307,"Nomura","Japan","$17,800.00",2000,381700,19000
+"308",308,"Merck","Germany","$17,300.00",2900,43300,43300
+"309",309,"Standard Chartered","United Kingdom","$21,000.00",893,663500,34400
+"310",310,"Carnival","United States","$18,000.00",2600,41400,47400
+"311",311,"United Overseas Bank","Singapore","$9,400.00",2600,277900,36900
+"312",312,"China Resources Land","Hong Kong","$15,500.00",3000,73500,25700
+"313",313,"Bridgestone","Japan","$32,900.00",2600,35300,30700
+"314",314,"Raytheon","United States","$25,600.00",2200,30500,61400
+"315",315,"RWE Group","Germany","$47,900.00",2100,89600,14700
+"316",316,"Hewlett Packard Enterprise","United States","$31,200.00",1500,61600,27400
+"317",317,"Progressive","United States","$28,000.00",1900,41300,36400
+"318",318,"NN Group","Netherlands","$19,900.00",2300,271600,15300
+"319",319,"Japan Post Holdings","Japan","$116,600.00",442,2586800,54600
+"320",320,"ICICI Bank","India","$18,500.00",1200,172400,29700
+"321",321,"Canadian Natural Resources","Canada","$14,400.00",2100,56800,44100
+"322",322,"HDFC","India","$10,700.00",2500,86300,47900
+"323",323,"China Huarong Asset Management","China","$18,200.00",3200,287200,13700
+"324",324,"Archer Daniels Midland","United States","$61,400.00",1600,41100,24600
+"325",325,"American Airlines Group","United States","$43,000.00",1900,53300,19900
+"326",326,"Kroger","United States","$122,700.00",1900,37800,21000
+"327",327,"Gas Natural Fenosa","Spain","$27,200.00",1600,57700,26100
+"328",328,"CRH","Ireland","$28,500.00",2200,38000,30900
+"329",329,"América Móvil","Mexico","$54,600.00",624,78700,57800
+"330",330,"Eli Lilly","United States","$23,300.00",1100,44400,89500
+"331",331,"Sompo","Japan","$32,200.00",1700,111400,16400
+"332",332,"DNB","Norway","$9,000.00",2700,340500,31700
+"333",333,"BCE","Canada","$17,900.00",2300,43900,37800
+"334",334,"MS&AD Insurance","Japan","$47,200.00",878,203000,20300
+"335",335,"Surgutneftegas","Russia","$19,800.00",3300,74500,17200
+"336",336,"SunTrust Banks","United States","$9,900.00",2400,204900,32200
+"337",337,"PayPal","United States","$13,800.00",1900,42300,94000
+"338",338,"Samsung Life Insurance","South Korea","$25,300.00",1000,264000,21400
+"339",339,"CSX","United States","$11,400.00",5800,37400,55200
+"340",340,"Synchrony Financial","United States","$14,000.00",2100,95600,25700
+"341",341,"Greenland Holdings Group","China","$44,800.00",1500,138100,13900
+"342",342,"Rolls-Royce Holdings","United Kingdom","$21,000.00",5400,40600,21100
+"343",343,"Daiwa House Industry","Japan","$34,300.00",2100,37900,25300
+"344",344,"Nike","United States","$35,300.00",1800,22600,110300
+"345",345,"Eaton","Ireland","$20,800.00",3000,32700,33400
+"346",346,"American Electric","United States","$15,500.00",1800,65600,33100
+"347",347,"Natixis","France","$10,700.00",1800,624400,26000
+"348",348,"Marubeni","Japan","$68,000.00",1900,64700,14000
+"349",349,"Kering","France","$17,500.00",2000,30700,74500
+"350",350,"Celgene","United States","$13,500.00",2800,34600,61300
+"351",351,"Principal Financial Group","United States","$14,000.00",2400,253600,16900
+"352",352,"Linde","Germany","$19,600.00",1800,40800,39700
+"353",353,"Occidental Petroleum","United States","$13,300.00",1900,42800,65100
+"354",354,"SingTel","Singapore","$12,700.00",4100,36600,43300
+"355",355,"Saudi Electricity","Saudi Arabia","$13,500.00",1800,118900,23500
+"356",356,"Discover Financial Services","United States","$11,900.00",2200,102000,26300
+"357",357,"United Continental Holdings","United States","$38,300.00",2200,44000,18600
+"358",358,"Bank Of Shanghai","China","$11,800.00",2300,292000,19100
+"359",359,"Cardinal Health","United States","$134,400.00",1700,41000,17200
+"360",360,"TransCanada","Canada","$10,500.00",2500,69000,39100
+"361",361,"Imperial Tobacco Group","United Kingdom","$20,100.00",1600,42500,35700
+"362",362,"Tyson Foods","United States","$40,000.00",2800,28100,24600
+"363",363,"China Cinda Asset Management","China","$15,700.00",2700,213000,13800
+"364",364,"Telstra","Australia","$19,900.00",2900,33000,28700
+"365",365,"Wesfarmers","Australia","$53,000.00",1200,31700,37700
+"366",366,"Suzuki Motor","Japan","$33,900.00",1900,31400,27600
+"367",367,"Mastercard","United States","$13,300.00",4300,22900,201900
+"368",368,"EOG Resources","United States","$12,500.00",3200,30700,68000
+"369",369,"WPP","United Kingdom","$19,700.00",2300,45500,22500
+"370",370,"Starbucks","United States","$23,500.00",4400,17600,79000
+"371",371,"Femsa","Mexico","$25,200.00",2100,31300,31200
+"372",372,"Deutsche Lufthansa","Germany","$41,500.00",2800,47100,14100
+"373",373,"Automatic Data Processing","United States","$13,100.00",1800,44100,56100
+"374",374,"Citigroup","United States","$90,500.00",NA,1922100,185800
+"375",375,"Macquarie Group","Australia","$10,300.00",1900,147400,27600
+"376",376,"Standard Bank Group","South Africa","$9,600.00",2000,163800,28500
+"377",377,"Norfolk Southern","United States","$10,700.00",5500,36200,43100
+"378",378,"Telecom Italia","Italy","$22,400.00",1300,83600,20200
+"379",379,"Lincoln National","United States","$14,200.00",2000,279200,14900
+"380",380,"Southwest Airlines","United States","$21,200.00",3600,25500,30400
+"381",381,"Sinohydro Group","China","$41,200.00",1100,96400,15200
+"382",382,"International Paper","United States","$23,000.00",2700,34000,22200
+"383",383,"Philips","Netherlands","$20,700.00",1800,30400,39100
+"384",384,"First Abu Dhabi Bank","United Arab Emirates","$7,300.00",2900,184500,33800
+"385",385,"Tata Motors","India","$43,000.00",1700,44600,16800
+"386",386,"CenturyLink","United States","$19,400.00",1300,74800,21100
+"387",387,"Freddie Mac","United States","$73,500.00",6300,2022500,858
+"388",388,"General Electric","United States","$121,500.00",NA,358100,126800
+"389",389,"PG&E","United States","$16,900.00",1500,68200,22400
+"390",390,"Heineken Holding","Netherlands","$24,700.00",1100,51200,28500
+"391",391,"Magna International","Canada","$40,300.00",2300,27100,22600
+"392",392,"Etisalat","United Arab Emirates","$14,200.00",2300,34600,38200
+"393",393,"Komatsu","Japan","$22,600.00",1800,31700,31100
+"394",394,"Fannie Mae","United States","$114,100.00",4000,3364400,1500
+"395",395,"Maybank","Malaysia","$9,100.00",1700,189100,29600
+"396",396,"Saudi Telecom","Saudi Arabia","$13,600.00",2700,30700,42800
+"397",397,"VTB Bank","Russia","$24,100.00",2000,226000,11000
+"398",398,"Booking Holdings","United States","$13,200.00",2500,25000,99900
+"399",399,"Mitsui Fudosan","Japan","$15,800.00",1400,59300,25400
+"400",400,"Takeda Pharmaceutical","Japan","$15,900.00",1700,39200,33400
+"401",401,"Ameriprise Financial","United States","$12,000.00",1700,144800,19800
+"402",402,"New China Life Insurance","China","$22,100.00",937,114400,20400
+"403",403,"Canadian National Railway","Canada","$10,200.00",4200,30100,58400
+"404",404,"Tata Consultancy Services","India","$19,100.00",4000,16300,98400
+"405",405,"Michelin Group","France","$24,800.00",1900,30300,25500
+"406",406,"Freeport-McMoRan","United States","$17,600.00",2300,36600,23600
+"407",407,"Subaru","Japan","$30,700.00",2000,27100,25300
+"408",408,"Novo Nordisk","Denmark","$17,300.00",6100,15400,116900
+"409",409,"China Merchants Shekou Industrial Zone Holdings","China","$10,600.00",2400,57300,28600
+"410",410,"Bristol-Myers Squibb","United States","$21,000.00",919,33100,84800
+"411",411,"LG Electronics","South Korea","$55,700.00",1500,38700,16500
+"412",412,"Texas Instruments","United States","$15,300.00",4000,17500,106900
+"413",413,"International Airlines","United Kingdom","$26,000.00",2300,32700,19400
+"414",414,"Tokyo Electric Power","Japan","$52,800.00",2900,118400,8200
+"415",415,"Bank Rakyat Indonesia","Indonesia","$9,300.00",2200,81300,27700
+"416",416,"Fosun International","China","$13,100.00",2000,82000,18600
+"417",417,"SK Innovation","South Korea","$40,900.00",1900,32000,17900
+"418",418,"Las Vegas Sands","United States","$13,400.00",3800,21500,61700
+"419",419,"Fairfax Financial","Canada","$14,900.00",2300,65000,16400
+"420",420,"China Yangtze Power","China","$7,400.00",3400,47300,56000
+"421",421,"Abbott Laboratories","United States","$28,400.00",466,70900,107400
+"422",422,"Marriott International","United States","$22,300.00",1400,24500,49400
+"423",423,"Bouygues","France","$37,100.00",1200,43000,18800
+"424",424,"Fifth Third Bancorp","United States","$7,800.00",2600,141500,23300
+"425",425,"Biogen","United States","$11,300.00",3000,26100,59600
+"426",426,"SSE","United Kingdom","$38,000.00",1800,30000,19400
+"427",427,"Monsanto","United States","$14,600.00",2500,22700,55100
+"428",428,"Cheung Kong Property Holdings","Hong Kong","$7,800.00",3900,58000,32100
+"429",429,"Andeavor","United States","$38,600.00",1700,28800,21200
+"430",430,"Erste Group Bank","Austria","$10,200.00",1500,282900,19000
+"431",431,"AmerisourceBergen","United States","$159,300.00",905,38400,19100
+"432",432,"Vivendi","France","$14,000.00",1400,41200,36100
+"433",433,"SEB AB","Sweden","$8,100.00",1900,346700,21500
+"434",434,"Shin-Etsu Chemical","Japan","$13,000.00",2400,27300,44400
+"435",435,"Toyota Industries","Japan","$18,100.00",1500,49400,20000
+"436",436,"Hana Financial Group","South Korea","$12,300.00",2000,336400,13000
+"437",437,"Bank Of Jiangsu","China","$12,900.00",1800,285700,13200
+"438",438,"Standard Life","United Kingdom","$21,300.00",900,261500,14800
+"439",439,"Applied Materials","United States","$15,500.00",2900,19700,57600
+"440",440,"General Motors","United States","$144,400.00",NA,218700,52000
+"441",441,"Mitsubishi Chemical","Japan","$33,600.00",1900,44200,13400
+"442",442,"Swedbank","Sweden","$6,700.00",2300,294800,25300
+"443",443,"Hyundai Mobis","South Korea","$30,700.00",1100,39600,21000
+"444",444,"Cisco Systems","United States","$48,100.00",NA,131500,221300
+"445",445,"Old Mutual","United Kingdom","$13,300.00",1100,219100,17000
+"446",446,"TJX Cos","United States","$35,900.00",2600,14100,52700
+"447",447,"Daikin Industries","Japan","$20,700.00",1700,23400,36000
+"448",448,"Couche Tard","Canada","$47,200.00",1500,22900,23600
+"449",449,"Kansai Electric Power","Japan","$28,300.00",1400,65700,13000
+"450",450,"Poste Italiane","Italy","$37,700.00",777,243400,12700
+"451",451,"ASML Holding","Netherlands","$11,000.00",2700,22900,85400
+"452",452,"American International Group","United States","$50,300.00",NA,499100,47400
+"453",453,"CTBC Financial","Taiwan","$14,600.00",1200,179500,14400
+"454",454,"Vodafone","United Kingdom","$48,200.00",NA,173900,76000
+"455",455,"National Commercial Bank","Saudi Arabia","$6,000.00",2700,116700,35300
+"456",456,"Wilmar International","Singapore","$43,800.00",1200,40900,15000
+"457",457,"Adidas","Germany","$24,900.00",1700,18200,46200
+"458",458,"Pernod Ricard","France","$10,200.00",1800,35800,43600
+"459",459,"Sampo","Finland","$7,800.00",2500,58900,29200
+"460",460,"Svenska Handelsbanken","Sweden","$6,800.00",1900,353900,22600
+"461",461,"Sysco","United States","$57,800.00",1300,18600,32700
+"462",462,"Dell Technologies","United States","$78,700.00",NA,122300,57200
+"463",463,"Sunac China Holdings","China","$10,000.00",1700,95700,19600
+"464",464,"DXC Technology","United States","$20,200.00",1000,33600,29900
+"465",465,"Consolidated Edison","United States","$12,200.00",1600,48900,23900
+"466",466,"BAE Systems","United Kingdom","$23,600.00",1100,30400,27500
+"467",467,"Fujifilm Holdings","Japan","$21,800.00",1600,31300,20000
+"468",468,"Kweichow Moutai","China","$8,500.00",4400,21400,142400
+"469",469,"Swiss Life Holding","Switzerland","$19,400.00",1000,218600,12300
+"470",470,"FirstRand","South Africa","$6,700.00",1900,104300,30300
+"471",471,"Larsen & Toubro","India","$17,800.00",1100,34400,28900
+"472",472,"IntercontinentalExchange","United States","$5,900.00",2500,82100,41400
+"473",473,"Toyota Tsusho","Japan","$58,600.00",1200,40500,13100
+"474",474,"LG Chem","South Korea","$22,700.00",1700,23400,24700
+"475",475,"Centene","United States","$49,900.00",1000,25200,23500
+"476",476,"SK Telecom","South Korea","$15,700.00",2400,33900,17000
+"477",477,"Asahi Group Holdings","Japan","$19,400.00",1400,29000,25300
+"478",478,"Formosa Petrochemical","Taiwan","$21,400.00",2500,16000,40200
+"479",479,"Sumitomo Mitsui Trust","Japan","$11,300.00",1000,570000,16300
+"480",480,"Barclays","United Kingdom","$27,100.00",NA,1533000,49700
+"481",481,"Emerson Electric","United States","$16,500.00",1800,19800,45400
+"482",482,"Credit Suisse Group","Switzerland","$32,700.00",NA,844900,43700
+"483",483,"Paccar","United States","$20,900.00",1900,23800,22400
+"484",484,"Waste Management","United States","$14,600.00",2000,22100,35800
+"485",485,"Samsung C&T","South Korea","$27,100.00",744,45800,23000
+"486",486,"Woolworths","Australia","$43,300.00",1400,18600,28300
+"487",487,"Richemont","Switzerland","$12,300.00",1800,22800,54500
+"488",488,"Loews","United States","$13,800.00",1200,80800,16500
+"489",489,"Bank Mandiri","Indonesia","$8,100.00",1700,79800,24100
+"490",490,"State Bank of India","India","$46,200.00",1,535000,33300
+"491",491,"Swire Pacific","Hong Kong","$10,300.00",3300,53900,15100
+"492",492,"Citic Securities","China","$6,100.00",1800,104800,35800
+"493",493,"Telenor","Norway","$15,000.00",1600,25000,32400
+"494",494,"Longfor Properties","China","$10,800.00",1900,55700,17700
+"495",495,"Deutsche Bank","Germany","$44,600.00",NA,1817400,28700
+"496",496,"HeidelbergCement","Germany","$19,500.00",1000,42500,19000
+"497",497,"Public Service Enterprise Group","United States","$9,100.00",2000,42800,25800
+"498",498,"Sherwin-Williams","United States","$16,200.00",1800,20400,35600
+"499",499,"General Mills","United States","$15,700.00",2200,22200,25300
+"500",500,"Marsh & McLennan","United States","$14,500.00",1600,21400,41400
+"501",501,"Aisin Seiki","Japan","$35,300.00",1200,33200,14900
+"502",502,"JFE Holdings","Japan","$33,200.00",1300,41900,12500
+"503",503,"Tenaga Nasional","Malaysia","$11,000.00",1900,35700,23100
+"504",504,"Swiss Re","Switzerland","$42,300.00",351,214600,29900
+"505",505,"Kirin Holdings","Japan","$16,600.00",2200,21100,25500
+"506",506,"BOE Technology Group","China","$14,000.00",1100,41800,24100
+"507",507,"Wheelock","Hong Kong","$9,100.00",2600,72900,14800
+"508",508,"Talanx","Germany","$38,000.00",758,182600,10500
+"509",509,"Sasol","South Africa","$13,200.00",1400,32900,24900
+"510",510,"Metallurgical Corp of China","China","$38,200.00",952,67000,11400
+"511",511,"CLP Holdings","Hong Kong","$11,800.00",1800,29200,26500
+"512",512,"NTPC","India","$12,000.00",1600,39800,20500
+"513",513,"Citizens Financial Group","United States","$6,800.00",1700,153500,20600
+"514",514,"EnBW-Energie Baden","Germany","$24,800.00",2300,49900,9400
+"515",515,"Investor AB","Sweden","$6,600.00",2200,49800,33900
+"516",516,"CME Group","United States","$3,800.00",4300,69900,54200
+"517",517,"Compass Group","United Kingdom","$29,800.00",1500,16000,32400
+"518",518,"British Sky Broadcasting","United Kingdom","$17,100.00",1100,25400,31600
+"519",519,"Edp-energias De Portugal","Portugal","$17,800.00",1300,50500,13500
+"520",520,"Schlumberger","United States","$31,400.00",NA,71500,98500
+"521",521,"Fujitsu","Japan","$37,000.00",1500,29400,12800
+"522",522,"Anhui Conch Cement","China","$12,000.00",2800,19800,32300
+"523",523,"Ecolab","United States","$14,100.00",1500,20200,42500
+"524",524,"China Taiping Insurance","Hong Kong","$25,400.00",755,84000,13000
+"525",525,"Xcel Energy","United States","$11,400.00",1200,43200,23000
+"526",526,"First Data","United States","$11,500.00",1500,45400,18000
+"527",527,"KeyCorp","United States","$6,900.00",1400,137000,21500
+"528",528,"Williams","United States","$8,100.00",2000,47100,22500
+"529",529,"National Bank of Canada","Canada","$7,200.00",1500,204600,16800
+"530",530,"ConocoPhillips","United States","$30,300.00",NA,70700,81300
+"531",531,"Naspers","South Africa","$6,200.00",3500,24100,112800
+"532",532,"Grupo ACS","Spain","$39,400.00",905,38300,13600
+"533",533,"Thales","France","$17,800.00",927,28000,28000
+"534",534,"China Unicom","Hong Kong","$40,700.00",262,88500,42500
+"535",535,"Illinois Tool Works","United States","$14,600.00",1800,16200,49400
+"536",536,"M&T Bank","United States","$6,100.00",1400,118600,27000
+"537",537,"Orsted","Denmark","$9,700.00",2800,24400,27000
+"538",538,"China Zheshang Bank","China","$10,700.00",1500,236000,11000
+"539",539,"Kimberly-Clark","United States","$18,500.00",1800,15300,36600
+"540",540,"Atlas Copco","Sweden","$13,200.00",2000,16100,49500
+"541",541,"Bank of Ningbo","China","$8,100.00",1500,169900,14500
+"542",542,"Associated British Foods","United Kingdom","$20,300.00",1400,17800,29500
+"543",543,"Stryker","United States","$12,700.00",1000,22100,63300
+"544",544,"Newell Brands","United States","$14,500.00",2200,33500,13100
+"545",545,"MTR","Hong Kong","$7,100.00",2200,33700,34800
+"546",546,"DISH Network","United States","$14,200.00",2100,30200,14700
+"547",547,"Kubota","Japan","$16,000.00",1300,25800,21100
+"548",548,"GFNorte","Mexico","$9,100.00",1400,76200,16100
+"549",549,"Colgate-Palmolive","United States","$15,700.00",2100,13100,54700
+"550",550,"Woori Bank","South Korea","$12,500.00",1200,295500,9800
+"551",551,"Novatek","Russia","$10,500.00",2200,18900,37900
+"552",552,"WestRock","United States","$15,700.00",1900,25400,15700
+"553",553,"China Southern Airlines","China","$19,700.00",1000,35000,14600
+"554",554,"Praxair","United States","$11,700.00",1300,20600,45300
+"555",555,"Thomson Reuters","Canada","$11,300.00",1400,26500,26800
+"556",556,"Dollar Tree","United States","$22,200.00",1700,16500,22300
+"557",557,"Regions Financial","United States","$6,100.00",1400,122900,21700
+"558",558,"Resona Holdings","Japan","$6,200.00",2100,472400,13200
+"559",559,"Asahi Kasei","Japan","$18,400.00",1500,21800,18800
+"560",560,"Qualcomm","United States","$22,600.00",NA,64100,81900
+"561",561,"Swisscom","Switzerland","$12,100.00",1600,23900,23900
+"562",562,"Northern Trust","United States","$5,900.00",1300,129700,24500
+"563",563,"Al Rajhi Bank","Saudi Arabia","$4,500.00",2500,93100,34900
+"564",564,"Mitsubishi Estate","Japan","$9,700.00",876,51400,25700
+"565",565,"Qingdao Haier","China","$24,600.00",1100,24600,17300
+"566",566,"Mapfre","Spain","$24,900.00",796,78700,10700
+"567",567,"Emirates NBD","United Arab Emirates","$6,100.00",2300,129500,15500
+"568",568,"Samsung Fire & Marine","South Korea","$17,600.00",855,69900,12000
+"569",569,"Bank of Nanjing","China","$8,500.00",1500,187500,11600
+"570",570,"TE Connectivity","Switzerland","$14,000.00",1300,19200,33100
+"571",571,"American Tower","United States","$6,800.00",1200,34400,61300
+"572",572,"NVIDIA","United States","$11,000.00",3800,11500,154500
+"573",573,"Cognizant","United States","$15,200.00",1500,15000,44900
+"574",574,"Bank Central Asia","Indonesia","$5,200.00",1800,55200,40200
+"575",575,"Mitsubishi Heavy Industries","Japan","$37,100.00",636,51600,12800
+"576",576,"MGM Resorts","United States","$10,900.00",2000,29300,17700
+"577",577,"Tatneft","Russia","$11,900.00",2100,19200,25600
+"578",578,"Fast Retailing","Japan","$18,200.00",1100,15200,45700
+"579",579,"DTE Energy","United States","$13,000.00",1100,33800,18600
+"580",580,"Formosa Chemicals","Taiwan","$12,300.00",1900,21100,22400
+"581",581,"Grupo Mexico","Mexico","$10,200.00",1700,26700,22600
+"582",582,"Allergan","Ireland","$16,000.00",NA,112000,52100
+"583",583,"H&M","Sweden","$23,700.00",1800,13100,26700
+"584",584,"KIA Motors","South Korea","$47,900.00",571,49600,12700
+"585",585,"New World Development","Hong Kong","$7,600.00",1900,59900,15000
+"586",586,"Recruit Holdings","Japan","$19,200.00",1300,13600,42800
+"587",587,"Møller-Maersk","Denmark","$34,700.00",NA,63400,35100
+"588",588,"Industrial Bank of Korea","South Korea","$11,100.00",1400,256000,8900
+"589",589,"Rogers Communications","Canada","$11,200.00",1400,23400,24800
+"590",590,"Reinsurance Group of America","United States","$12,700.00",1800,61000,9800
+"591",591,"Nidec","Japan","$13,400.00",1200,16600,46900
+"592",592,"PPG","United States","$15,100.00",1600,16500,25000
+"593",593,"Constellation Brands","United States","$7,600.00",2300,20500,41600
+"594",594,"RELX Group","United Kingdom","$9,500.00",2100,16600,43400
+"595",595,"Fidelity National Information","United States","$8,900.00",1400,24400,34700
+"596",596,"Chubu Electric Power","Japan","$25,700.00",671,52000,12000
+"597",597,"Simon Property Group","United States","$5,600.00",2000,31000,49500
+"598",598,"Dongfeng Motor Group","China","$18,500.00",2100,32600,9700
+"599",599,"Sumitomo Electric","Japan","$27,800.00",1100,28400,12100
+"600",600,"Suning Appliance","China","$30,100.00",641,25700,19700
+"601",601,"China Eastern Airlines","China","$15,700.00",834,36200,15500
+"602",602,"Ally Financial","United States","$10,100.00",965,170000,11500
+"603",603,"Netflix","United States","$12,800.00",671,20200,141900
+"604",604,"Cummins","United States","$21,400.00",928,18400,24100
+"605",605,"Sumitomo Realty","Japan","$8,600.00",1100,48800,19300
+"606",606,"Teck Resources","Canada","$9,500.00",2100,29400,16000
+"607",607,"Henderson Land","Hong Kong","$3,200.00",3900,52700,25900
+"608",608,"LafargeHolcim","Switzerland","$26,500.00",NA,65300,31600
+"609",609,"Atlantia","Italy","$6,100.00",1300,48700,27500
+"610",610,"China Fortune Land Development","China","$8,500.00",1400,59700,13400
+"611",611,"Evonik","Germany","$16,800.00",997,25000,17400
+"612",612,"Kyocera","Japan","$14,200.00",738,29700,22800
+"613",613,"Astellas Pharma","Japan","$11,700.00",1500,17500,30100
+"614",614,"Aeon","Japan","$75,300.00",220,88600,16500
+"615",615,"Dollar General","United States","$23,500.00",1500,12600,25100
+"616",616,"Nucor","United States","$21,000.00",1300,16100,20100
+"617",617,"Nan Ya Plastics","Taiwan","$10,500.00",1900,19700,22700
+"618",618,"Zimmer Biomet","United States","$7,900.00",1700,27200,23700
+"619",619,"Ingersoll Rand","Ireland","$14,600.00",1300,18400,22000
+"620",620,"Banco de Sabadell","Spain","$8,400.00",987,269400,11500
+"621",621,"CIMB Group Holdings","Malaysia","$6,600.00",1000,125300,16400
+"622",622,"Raiffeisen Bank International","Austria","$8,100.00",1200,162300,11200
+"623",623,"Siam Commercial Bank","Thailand","$6,800.00",1300,97700,14300
+"624",624,"Omnicom Group","United States","$15,300.00",1100,23500,17100
+"625",625,"Covestro","Germany","$16,700.00",2600,13900,18400
+"626",626,"CBS","United States","$14,100.00",1200,20600,19900
+"627",627,"Adobe Systems","United States","$7,700.00",1900,15000,119100
+"628",628,"Kotak Mahindra Bank","India","$6,000.00",962,51800,35800
+"629",629,"Royal Caribbean Cruises","United States","$8,800.00",1600,24000,22700
+"630",630,"Aon","United Kingdom","$10,700.00",742,27800,35200
+"631",631,"Otsuka Holding","Japan","$11,300.00",1000,22800,26000
+"632",632,"Murata Manufacturing","Japan","$12,400.00",1300,16900,29500
+"633",633,"Nokia","Finland","$26,500.00",NA,48300,35700
+"634",634,"T&D Holdings","Japan","$16,200.00",602,135500,10300
+"635",635,"Axis Bank","India","$8,600.00",590,94200,21100
+"636",636,"Daqin Railway","China","$9,200.00",2200,20900,20700
+"637",637,"Suncorp Group","Australia","$10,700.00",759,76500,13600
+"638",638,"Valeo","France","$20,900.00",999,20900,16200
+"639",639,"PPL","United States","$7,600.00",1200,42400,19400
+"640",640,"All Nippon Airways","Japan","$17,800.00",1300,24100,12800
+"641",641,"Vonovia","Germany","$3,800.00",2800,54300,24100
+"642",642,"Best Buy","United States","$42,200.00",1000,13300,21900
+"643",643,"CNH Industrial","United Kingdom","$28,400.00",427,49800,16900
+"644",644,"Cenovus Energy","Canada","$14,100.00",1100,30900,13400
+"645",645,"Coal India","India","$12,600.00",1300,17800,25000
+"646",646,"Public Bank","Malaysia","$4,700.00",1300,102900,23300
+"647",647,"Garanti Bank","Turkey","$9,500.00",1700,92900,9000
+"648",648,"Falabella","Chile","$13,800.00",785,23400,23600
+"649",649,"NXP Semiconductors","Netherlands","$9,300.00",968,24100,34000
+"650",650,"JD.com","China","$53,900.00",NA,28300,44500
+"651",651,"Sinopharm Group","China","$41,100.00",781,26000,11700
+"652",652,"Mylan","United Kingdom","$11,900.00",717,35200,19800
+"653",653,"Infosys","India","$10,900.00",2500,12300,38300
+"654",654,"Siam Cement","Thailand","$13,700.00",1500,18700,17700
+"655",655,"Lennar","United States","$13,300.00",900,27900,17700
+"656",656,"Hartford Financial Services","United States","$18,500.00",283,216700,18800
+"657",657,"Ageas","Belgium","$12,900.00",703,123200,10600
+"658",658,"Akzo Nobel","Netherlands","$13,900.00",988,20400,22400
+"659",659,"Unibail-Rodamco","France","$2,300.00",2800,51900,23300
+"660",660,"Nintendo","Japan","$9,500.00",1300,15400,59800
+"661",661,"Norilsk Nickel","Russia","$9,200.00",2100,16600,27500
+"662",662,"Viacom","United States","$12,900.00",2200,23000,12200
+"663",663,"Iqvia Holdings","United States","$10,000.00",1300,23200,21400
+"664",664,"Devon Energy","United States","$14,300.00",635,29300,21400
+"665",665,"Capgemini","France","$14,400.00",925,19300,23300
+"666",666,"Weichai Power","China","$23,400.00",1100,31200,9600
+"667",667,"Transneft","Russia","$15,200.00",3300,50500,4400
+"668",668,"The Estée Lauder Companies","United States","$13,300.00",1200,12800,51500
+"669",669,"Becton Dickinson","United States","$13,500.00",47,54600,60200
+"670",670,"Sekisui House","Japan","$19,300.00",1200,22200,12700
+"671",671,"Yanzhou Coal Mining","China","$21,200.00",1100,31700,9900
+"672",672,"Bharat Petroleum","India","$30,000.00",1300,17000,12900
+"673",673,"Kellogg","United States","$13,100.00",1500,16700,21300
+"674",674,"Molson Coors Brewing","United States","$10,900.00",1500,30200,13100
+"675",675,"Porsche Automobil Holding","Germany","$38.00",3800,38100,25700
+"676",676,"Republic Services","United States","$10,100.00",1300,21100,22300
+"677",677,"Isbank","Turkey","$14,300.00",1600,115800,6200
+"678",678,"Toray Industries","Japan","$19,900.00",865,24400,13700
+"679",679,"Kinder Morgan","United States","$13,700.00",261,79000,36400
+"680",680,"West Japan Railway","Japan","$13,500.00",997,28900,14200
+"681",681,"TELUS","Canada","$10,200.00",1100,23600,21300
+"682",682,"ZTE","China","$16,800.00",765,22100,19500
+"683",683,"Geely Automobile Holdings","Hong Kong","$13,800.00",1600,13100,26900
+"684",684,"Stanley Black & Decker","United States","$13,200.00",1000,19700,22200
+"685",685,"Carrefour","France","$91,300.00",NA,57400,15000
+"686",686,"Kao Corp","Japan","$13,500.00",1400,12800,34400
+"687",687,"Lam Research","United States","$10,300.00",1900,13700,33100
+"688",688,"WEC Energy Group","United States","$7,600.00",1200,31800,19500
+"689",689,"Deutsche Boerse","Germany","$3,400.00",985,179700,26000
+"690",690,"Commerzbank","Germany","$16,200.00",160,547900,16100
+"691",691,"Guangzhou Automobile Group","China","$10,800.00",1600,18800,18600
+"692",692,"Legend Holding","China","$46,900.00",746,51500,7700
+"693",693,"Cnpc Capital","China","$5,000.00",1100,130800,18800
+"694",694,"BYD","China","$16,300.00",532,28900,21400
+"695",695,"Air Products & Chemicals","United States","$8,700.00",1100,18500,36500
+"696",696,"Guotai Junan Securities","China","$3,700.00",1400,72200,24000
+"697",697,"Publicis Groupe","France","$10,900.00",972,28600,16800
+"698",698,"Eversource Energy","United States","$7,900.00",998,37000,18400
+"699",699,"Sodexo","France","$23,500.00",862,19100,14800
+"700",700,"Aptiv","United Kingdom","$15,700.00",1300,12600,25500
+"701",701,"Lotte Chemical","South Korea","$14,400.00",1900,18300,12400
+"702",702,"Sanlam","South Africa","$8,900.00",821,58700,13400
+"703",703,"DSM","Netherlands","$10,400.00",2300,16300,17800
+"704",704,"Teva Pharmaceutical","Israel","$21,800.00",NA,69200,19600
+"705",705,"Sumitomo Chemical","Japan","$19,500.00",1200,27700,9400
+"706",706,"Altice","Netherlands","$26,500.00",NA,87000,15900
+"707",707,"CGN Power","China","$6,900.00",1400,55200,12500
+"708",708,"Solvay","Belgium","$13,200.00",967,25800,14300
+"709",709,"Parker-Hannifin","United States","$14,000.00",1000,16200,23300
+"710",710,"Kasikornbank","Thailand","$5,800.00",1100,95800,14700
+"711",711,"Idemitsu Kosan","Japan","$32,100.00",1500,25800,7700
+"712",712,"Huntington Bancshares","United States","$4,900.00",1300,104200,16700
+"713",713,"Athene Holding","Bermuda","$8,200.00",1300,93600,9300
+"714",714,"PKN Orlen","Poland","$26,500.00",1600,17500,10400
+"715",715,"WH Group","Hong Kong","$22,400.00",1100,15300,14900
+"716",716,"Credicorp","Peru","$5,500.00",1300,52900,18000
+"717",717,"Koç Holding","Turkey","$27,100.00",1300,27600,8000
+"718",718,"George Weston","Canada","$37,600.00",648,30000,10400
+"719",719,"Baxter International","United States","$10,800.00",832,16900,37800
+"720",720,"Telkom Indonesia","Indonesia","$9,600.00",1600,15000,25800
+"721",721,"Husky Energy","Canada","$15,400.00",750,25800,14400
+"722",722,"Essity Ab","Sweden","$13,400.00",973,18600,18700
+"723",723,"Teliasonera","Sweden","$9,600.00",674,30100,21900
+"724",724,"ThyssenKrupp Group","Germany","$46,900.00",NA,40700,17300
+"725",725,"Guangzhou R&F","China","$8,800.00",3300,45800,7800
+"726",726,"Coca-Cola European Partners","United Kingdom","$12,900.00",766,22400,18800
+"727",727,"Edison International","United States","$12,400.00",421,51900,20300
+"728",728,"Sandvik","Sweden","$11,100.00",1700,13400,23000
+"729",729,"Macy's","United States","$24,800.00",1500,20100,9100
+"730",730,"Haitong Securities","China","$4,200.00",1200,91100,19400
+"731",731,"Ferguson","Switzerland","$18,600.00",1200,12700,18900
+"732",732,"Eiffage","France","$17,200.00",615,36200,11500
+"733",733,"Norsk Hydro","Norway","$15,500.00",1100,20200,12400
+"734",734,"Ross Stores","United States","$14,100.00",1400,5900,31000
+"735",735,"Liberty Global","United Kingdom","$14,800.00",NA,58300,24400
+"736",736,"Huatai Securities","China","$3,100.00",1500,63500,19600
+"737",737,"Unum","United States","$11,400.00",1000,63000,8400
+"738",738,"Fanuc","Japan","$6,600.00",1600,16300,41800
+"739",739,"Mazda Motor","Japan","$31,300.00",1000,25700,8400
+"740",740,"ROSSETI","Russia","$16,300.00",1800,42200,2700
+"741",741,"UPM-Kymmene","Finland","$11,700.00",1200,15900,19800
+"742",742,"Annaly Capital Management","United States","$2,700.00",2500,100400,12100
+"743",743,"Halliburton","United States","$22,100.00",NA,25200,45800
+"744",744,"Prologis","United States","$2,700.00",1800,29700,34800
+"745",745,"Huaneng Power International","China","$23,700.00",361,60800,13600
+"746",746,"Tokyo Electron","Japan","$10,200.00",1800,11400,32900
+"747",747,"Shimao Property Holdings","Hong Kong","$10,400.00",1200,47200,9200
+"748",748,"LG Corp","South Korea","$9,100.00",2100,20200,13300
+"749",749,"Toshiba","Japan","$38,700.00",NA,39900,17000
+"750",750,"Akbank","Turkey","$7,600.00",1700,89800,7900
+"751",751,"London Stock Exchange","United Kingdom","$2,500.00",683,1003700,20900
+"752",752,"OMV Group","Austria","$23,000.00",150,39800,21500
+"753",753,"Uniper","Germany","$83,000.00",NA,51900,11900
+"754",754,"China Energy Engineering","China","$34,800.00",781,52800,4700
+"755",755,"Veolia Environnement","France","$28,300.00",377,46000,13600
+"756",756,"Hong Kong Exchanges","Hong Kong","$1,800.00",1100,39200,41300
+"757",757,"Ericsson","Sweden","$23,800.00",NA,31100,26100
+"758",758,"LabCorp","United States","$10,800.00",1200,16800,18000
+"759",759,"Allied Irish Banks","Ireland","$3,800.00",1200,108100,16200
+"760",760,"Shanghai International Port","China","$5,600.00",1800,22600,24700
+"761",761,"Bancolombia","Colombia","$7,400.00",886,68300,11500
+"762",762,"AMP","Australia","$12,800.00",650,115800,8100
+"763",763,"Daiwa Securities","Japan","$6,400.00",998,198800,9800
+"764",764,"China Reinsurance Group","China","$15,800.00",776,36500,9400
+"765",765,"CenterPoint Energy","United States","$9,900.00",1800,22400,11500
+"766",766,"Abertis","Spain","$5,900.00",1000,35800,19900
+"767",767,"Taisei","Japan","$14,300.00",1100,18200,12400
+"768",768,"Sempra Energy","United States","$11,100.00",191,60500,28300
+"769",769,"TD Ameritrade Holding","United States","$4,600.00",1000,38600,34900
+"770",770,"Grupa PZU","Poland","$8,700.00",771,91000,9700
+"771",771,"Qurate Retail","United States","$11,300.00",2300,18700,10500
+"772",772,"ITC","India","$8,700.00",1500,8600,51500
+"773",773,"Isuzu Motors","Japan","$18,400.00",970,17800,12000
+"774",774,"Grupo Aval","Colombia","$10,300.00",694,79800,9500
+"775",775,"Hilton","United States","$9,100.00",1300,14300,25100
+"776",776,"Steinhoff International","Netherlands","$18,100.00",1400,37100,574
+"777",777,"Rakuten","Japan","$8,800.00",929,61100,9600
+"778",778,"LG Display","South Korea","$23,800.00",999,28100,7800
+"779",779,"Sabanci Holding","Turkey","$12,200.00",1100,91800,4700
+"780",780,"Lear","United States","$21,200.00",1300,12700,12900
+"781",781,"VMware","United States","$7,900.00",569,20700,58400
+"782",782,"Chunghwa Telecom","Taiwan","$7,600.00",1300,16100,28400
+"783",783,"Sharp","Japan","$21,900.00",634,17900,14700
+"784",784,"Neste Oil","Finland","$16,100.00",1200,9900,20600
+"785",785,"Dentsu","Japan","$8,300.00",941,31600,13400
+"786",786,"DR Horton","United States","$15,100.00",1100,13200,16600
+"787",787,"GF Securities","China","$2,900.00",1200,61600,17700
+"788",788,"Pioneer Natural Resources","United States","$7,000.00",1000,17300,34500
+"789",789,"Japan Airlines","Japan","$12,500.00",1200,17400,12900
+"790",790,"TUI","Germany","$21,300.00",777,15600,14000
+"791",791,"Barrick Gold","Canada","$8,200.00",970,25400,15700
+"792",792,"Eastman Chemical","United States","$9,800.00",1500,16400,15200
+"793",793,"Luxottica Group","Italy","$10,300.00",1200,12100,30000
+"794",794,"YPF","Argentina","$15,500.00",1000,27400,8500
+"795",795,"CEZ Group","Czech Republic","$8,500.00",803,30300,14100
+"796",796,"Entergy","United States","$11,100.00",476,47300,14300
+"797",797,"Anadarko Petroleum","United States","$11,100.00",NA,41100,35200
+"798",798,"Ferrovial","Spain","$13,800.00",511,27600,15700
+"799",799,"Western Digital","United States","$20,400.00",199,29000,23600
+"800",800,"CSL","Australia","$7,400.00",1600,10400,60000
+"801",801,"Formosa Plastics","Taiwan","$6,800.00",1600,16000,23200
+"802",802,"Scentre Group","Australia","$1,900.00",3200,29300,16500
+"803",803,"Great Wall Motor","China","$15,200.00",789,17400,13900
+"804",804,"Rockwell Collins","United States","$8,500.00",909,18300,22100
+"805",805,"Bankia","Spain","$4,000.00",866,257100,13700
+"806",806,"Galp Energia","Portugal","$17,800.00",713,15000,17000
+"807",807,"Samba Financial Group","Saudi Arabia","$2,300.00",1400,61000,14800
+"808",808,"Tokyo Gas","Japan","$16,000.00",677,22000,12200
+"809",809,"National Bank of Kuwait","Kuwait","$3,800.00",1000,89400,15000
+"810",810,"Mitsubishi Motors","Japan","$19,800.00",971,15600,11700
+"811",811,"Tesla","United States","$12,500.00",NA,27300,51100
+"812",812,"Uni-President","Taiwan","$13,600.00",1300,14100,13400
+"813",813,"Ryanair Holdings","Ireland","$7,900.00",1600,14000,21300
+"814",814,"Fortum","Finland","$5,700.00",1100,26200,21300
+"815",815,"Oneok","United States","$12,700.00",565,16400,27100
+"816",816,"Chongqing Rural Bank","China","$6,700.00",1400,142900,7100
+"817",817,"Link REIT","Hong Kong","$1,200.00",3100,24600,18500
+"818",818,"Itaúsa","Brazil","$1,600.00",2600,19800,26800
+"819",819,"PTT Global Chemical","Thailand","$13,600.00",1200,14300,13400
+"820",820,"Essilor International","France","$8,400.00",890,14800,29800
+"821",821,"Kajima","Japan","$17,100.00",1200,16900,10000
+"822",822,"Centrica","United Kingdom","$36,100.00",429,28000,11200
+"823",823,"NetEase","China","$8,000.00",1600,10900,35200
+"824",824,"Keyence","Japan","$4,800.00",1900,14000,75800
+"825",825,"S-Oil","South Korea","$19,000.00",938,15300,11500
+"826",826,"Mahindra & Mahindra","India","$14,000.00",1100,12400,16100
+"827",827,"Bharti Airtel","India","$13,000.00",171,38400,22900
+"828",828,"Bank of East Asia","Hong Kong","$3,600.00",1100,103500,12300
+"829",829,"Bangkok Bank","Thailand","$4,900.00",1000,101500,11400
+"830",830,"Fortis (Canada)","Canada","$6,400.00",824,38100,13900
+"831",831,"Banco BPM","Italy","$5,200.00",3000,193600,5300
+"832",832,"Galaxy Entertainment","Hong Kong","$8,000.00",1300,10700,38200
+"833",833,"Abitare In Spa","Italy","$21,500.00",919,32700,69
+"834",834,"Braskem","Brazil","$15,400.00",1300,16100,10100
+"835",835,"Hikvision","China","$6,600.00",1500,8000,58200
+"836",836,"Comerica","United States","$3,300.00",817,72300,16800
+"837",837,"Kyushu Electric Power","Japan","$17,700.00",782,44300,5600
+"838",838,"Stora Enso","Finland","$11,800.00",917,14500,16300
+"839",839,"Kone","Finland","$10,700.00",1100,8400,25700
+"840",840,"Raymond James Financial","United States","$7,000.00",737,36000,13700
+"841",841,"First Republic Bank","United States","$3,100.00",780,90200,15800
+"842",842,"Infineon Technologies","Germany","$8,500.00",1300,NA,32400
+"843",843,"Assa Abloy","Sweden","$9,200.00",1000,12500,24700
+"844",844,"Hermès International","France","$6,300.00",1400,8100,72700
+"845",845,"PKO Bank Polski","Poland","$4,200.00",822,85400,14900
+"846",846,"Aena","Spain","$4,700.00",1500,18900,31800
+"847",847,"Restaurant Brands International","Canada","$4,800.00",1300,20800,26200
+"848",848,"Schaeffler","Germany","$16,400.00",1100,14600,10700
+"849",849,"Canadian Pacific Railway","Canada","$5,200.00",1800,15800,26700
+"850",850,"China Hongqiao Group","China","$13,800.00",764,24300,9700
+"851",851,"Analog Devices","United States","$5,600.00",775,20900,34200
+"852",852,"Hanwha","South Korea","$44,600.00",359,149600,2900
+"853",853,"Weyerhaeuser","United States","$7,400.00",694,17900,27700
+"854",854,"S&P Global","United States","$6,200.00",1600,8500,50300
+"855",855,"Shaanxi Coal Industry","China","$7,300.00",1600,17400,13500
+"856",856,"Salesforce.com","United States","$10,500.00",128,21000,97000
+"857",857,"Willis Towers Watson","United Kingdom","$8,100.00",439,34200,20500
+"858",858,"Apache","United States","$6,100.00",1200,21800,15800
+"859",859,"ATOS","France","$14,300.00",678,16200,13900
+"860",860,"S.F. Holding","China","$11,500.00",753,9300,34300
+"861",861,"Novolipetsk Steel","Russia","$10,700.00",1600,11200,15300
+"862",862,"AutoZone","United States","$11,100.00",1300,9400,17800
+"863",863,"Kuehne & Nagel International","Switzerland","$18,900.00",749,7700,18400
+"864",864,"CarMax","United States","$17,100.00",664,17600,11400
+"865",865,"Mega Financial Holding","Taiwan","$2,800.00",846,119200,12100
+"866",866,"Adecco","Switzerland","$27,600.00",869,12500,11000
+"867",867,"Inner Mongolia Yili","China","$10,800.00",961,7800,24800
+"868",868,"Deutsche Wohnen","Germany","$1,300.00",1900,24700,16800
+"869",869,"VF","United States","$12,300.00",707,10300,30700
+"870",870,"XL Group","Bermuda","$11,300.00",NA,65300,14200
+"871",871,"China Steel","Taiwan","$11,900.00",594,22800,12200
+"872",872,"J Sainsbury","United Kingdom","$37,700.00",410,30900,9100
+"873",873,"Halkbank","Turkey","$7,700.00",1100,82300,2200
+"874",874,"Alliance Data Systems","United States","$7,700.00",806,29400,11500
+"875",875,"China National Building","China","$19,000.00",482,53300,7200
+"876",876,"E-Trade Financial","United States","$2,600.00",716,64200,17000
+"877",877,"FirstEnergy","United States","$13,400.00",NA,38800,16200
+"878",878,"Julius Baer Group","Switzerland","$3,800.00",716,100500,13700
+"879",879,"Financiere de l'Odet","France","$20,700.00",417,60300,7600
+"880",880,"Fortescue Metals Group","Australia","$7,600.00",1600,18200,11600
+"881",881,"China National Nuclear Power","China","$5,000.00",679,49400,16100
+"882",882,"Shengjing Bank","China","$6,500.00",1100,158300,3900
+"883",883,"SM Investments","Philippines","$7,800.00",664,18600,21200
+"884",884,"Nutrien","Canada","$181.00",642,34900,31000
+"885",885,"Insurance Australia Group","Australia","$7,100.00",793,23000,14700
+"886",886,"Obayashi","Japan","$17,000.00",889,19400,8200
+"887",887,"China Merchants Securities","China","$1,700.00",830,46200,16800
+"888",888,"O'Reilly Automotive","United States","$9,100.00",1200,7700,22100
+"889",889,"Vestas Wind Systems","Denmark","$11,400.00",977,13700,13600
+"890",890,"Woodside Petroleum","Australia","$3,900.00",1000,25400,23700
+"891",891,"Randstad Holding","Netherlands","$27,300.00",751,12000,11700
+"892",892,"CBRE Group","United States","$15,900.00",712,11900,16000
+"893",893,"Emaar Properties","United Arab Emirates","$5,800.00",1600,30800,9700
+"894",894,"Saudi British Bank","Saudi Arabia","$2,000.00",1100,48700,13000
+"895",895,"Voestalpine","Austria","$14,300.00",781,18400,9900
+"896",896,"Shanghai Pharmaceuticals","China","$20,200.00",534,18100,11200
+"897",897,"eBay","United States","$10,000.00",NA,24600,38000
+"898",898,"Daiichi Sankyo","Japan","$8,700.00",544,17800,23200
+"899",899,"Shenwan Hongyuan Group","China","$2,000.00",697,51900,17400
+"900",900,"Huishang Bank","China","$6,200.00",1100,139500,5400
+"901",901,"China Grand Automotive Services","China","$25,200.00",608,20000,8500
+"902",902,"Secom","Japan","$8,800.00",785,16200,16500
+"903",903,"Bank Negara Indonesia","Indonesia","$4,900.00",1000,50800,11100
+"904",904,"Genworth Financial","United States","$8,200.00",783,103800,1500
+"905",905,"Power Grid of India","India","$3,800.00",1100,32400,16100
+"906",906,"Swatch Group","Switzerland","$8,100.00",745,13800,25500
+"907",907,"Bank of Jinzhou","China","$6,000.00",1300,111100,6200
+"908",908,"Invesco","United States","$5,400.00",1100,31600,11600
+"909",909,"Wipro","India","$8,500.00",1200,11700,18300
+"910",910,"Riyad Bank","Saudi Arabia","$2,600.00",1100,57700,11500
+"911",911,"Xiamen C&D","China","$34,100.00",527,32800,5000
+"912",912,"Bank Leumi","Israel","$4,800.00",882,129900,9300
+"913",913,"Schindler Holding","Switzerland","$10,300.00",837,8900,23000
+"914",914,"Bâloise Group","Switzerland","$9,600.00",557,86300,7400
+"915",915,"DP World","United Arab Emirates","$4,700.00",1200,23200,18300
+"916",916,"Inpex","Japan","$8,400.00",364,40000,18500
+"917",917,"HollyFrontier","United States","$15,300.00",1100,10900,11900
+"918",918,"CP All","Thailand","$13,900.00",567,11100,24100
+"919",919,"Asahi Glass","Japan","$13,500.00",668,20500,9900
+"920",920,"Kohl's","United States","$19,100.00",859,13300,10100
+"921",921,"MOL Hungarian Oil","Hungary","$15,800.00",1000,16800,8000
+"922",922,"Yamaha Motor","Japan","$15,200.00",923,13200,10900
+"923",923,"Hyundai Steel","South Korea","$17,400.00",499,31200,8000
+"924",924,"Wuliangye Yibin","China","$4,400.00",1700,12700,47200
+"925",925,"United Rentals","United States","$7,000.00",1400,14700,14000
+"926",926,"South32","Australia","$7,200.00",1200,14800,15200
+"927",927,"Regeneron Pharmaceuticals","United States","$6,100.00",1400,9400,33100
+"928",928,"Genuine Parts","United States","$17,000.00",633,12800,13400
+"929",929,"Mohawk Industries","United States","$9,700.00",980,12600,15900
+"930",930,"Abu Dhabi Commercial Bank","United Arab Emirates","$3,500.00",1100,72600,9700
+"931",931,"CapitaLand","Singapore","$4,000.00",1100,47400,11600
+"932",932,"Bank Hapoalim","Israel","$5,000.00",740,130900,9600
+"933",933,"Gecina","France","$799.00",2100,24100,12800
+"934",934,"Mediobanca","Italy","$2,600.00",912,86600,10300
+"935",935,"VakifBank","Turkey","$6,800.00",1100,69100,3300
+"936",936,"HCL Technologies","India","$7,800.00",1400,7400,19300
+"937",937,"Technipfmc","United Kingdom","$14,800.00",227,28500,14800
+"938",938,"Westlake Chemical","United States","$8,200.00",1400,11600,15200
+"939",939,"China Gezhouba","China","$15,600.00",708,31000,5800
+"940",940,"Corning","United States","$10,200.00",NA,26800,23300
+"941",941,"Suntory Beverage & Food","Japan","$11,000.00",697,14500,14300
+"942",942,"Asr Nederland","Netherlands","$7,200.00",1000,65900,6500
+"943",943,"Shanghai Electric Group","China","$11,900.00",396,31600,12000
+"944",944,"JM Smucker","United States","$7,400.00",1300,15300,12800
+"945",945,"SVB Financial Group","United States","$2,100.00",584,53500,17000
+"946",946,"Aluminum Corp of China","China","$26,300.00",195,32200,10100
+"947",947,"Zijin Mining Group","China","$14,800.00",546,14500,13800
+"948",948,"Klepierre","France","$1,600.00",1400,30200,12400
+"949",949,"Db Insurance","South Korea","$13,600.00",585,44600,4100
+"950",950,"Fortive","United States","$6,900.00",1100,10700,26400
+"951",951,"Hindustan Petroleum","India","$27,900.00",1200,12500,7200
+"952",952,"OTP Bank","Hungary","$4,000.00",1000,51100,10900
+"953",953,"Yum! Brands","United States","$5,800.00",1500,4800,27400
+"954",954,"STMicroelectronics","Switzerland","$8,700.00",928,10100,21200
+"955",955,"Fiserv","United States","$5,700.00",1400,10200,29800
+"956",956,"Cemex","Mexico","$14,000.00",487,29200,8800
+"957",957,"China Coal Energy","China","$13,100.00",406,39600,9400
+"958",958,"Hormel Foods","United States","$9,200.00",915,7900,19200
+"959",959,"Towngas","Hong Kong","$4,200.00",1100,16800,30000
+"960",960,"Crown Castle International","United States","$4,600.00",439,32300,43000
+"961",961,"TDK","Japan","$11,500.00",573,17900,11900
+"962",962,"Bank of Ireland","Ireland","$4,000.00",722,147200,9700
+"963",963,"L3 Technologies","United States","$10,300.00",717,12900,15400
+"964",964,"Snam","Italy","$2,800.00",1000,26700,15600
+"965",965,"Boston Scientific","United States","$9,300.00",112,19200,41400
+"966",966,"St. James's Place","United Kingdom","$11,600.00",188,121600,8500
+"967",967,"Bunge","United States","$45,300.00",92,23100,10000
+"968",968,"Cielo","Brazil","$3,600.00",1300,25000,13700
+"969",969,"Franklin Resources","United States","$6,700.00",674,17700,18000
+"970",970,"Seagate Technology","Ireland","$10,800.00",835,9000,16300
+"971",971,"Tokyu","Japan","$10,300.00",633,21300,10200
+"972",972,"Westfield","Australia","$1,400.00",1500,21300,14200
+"973",973,"Guangdong Wens Foodstuffs Group","China","$8,400.00",1000,8000,18100
+"974",974,"Voya Financial","United States","$9,300.00",NA,219800,8900
+"975",975,"Daito Trust Construction","Japan","$14,000.00",792,7900,12800
+"976",976,"Gap","United States","$15,900.00",848,8000,11400
+"977",977,"China Resources Power","Hong Kong","$9,400.00",593,28300,9200
+"978",978,"Beiersdorf","Germany","$8,000.00",758,9900,26300
+"979",979,"Intuit","United States","$5,400.00",950,4900,49700
+"980",980,"Zions Bancorp","United States","$2,800.00",688,66500,11400
+"981",981,"Ceconomy","Germany","$25,000.00",1100,13700,3500
+"982",982,"Severstal","Russia","$8,300.00",1500,7100,13400
+"983",983,"Ameren","United States","$6,200.00",572,26100,13900
+"984",984,"QBE Insurance Group","Australia","$12,700.00",NA,44400,10500
+"985",985,"Amadeus IT Group","Spain","$5,500.00",1100,9500,33600
+"986",986,"SMC","Japan","$5,100.00",1200,12100,26500
+"987",987,"Banque Saudi Fransi","Saudi Arabia","$2,200.00",944,49100,10300
+"988",988,"Sumitomo Metal Mining","Japan","$8,400.00",827,16000,11700
+"989",989,"Keurig Dr Pepper","United States","$6,800.00",1100,10200,21500
+"990",990,"American Financial Group","United States","$6,700.00",467,60700,10000
+"991",991,"Zoetis","United States","$5,400.00",978,8700,40900
+"992",992,"Cencosud","Chile","$16,100.00",678,16800,8100
+"993",993,"Finatis","France","$43,600.00",NA,48200,337
+"994",994,"Roper Technologies","United States","$4,700.00",1000,14100,28800
+"995",995,"Hershey","United States","$7,600.00",1000,7300,18800
+"996",996,"T Rowe Price","United States","$5,000.00",1500,7400,28600
+"997",997,"Activision Blizzard","United States","$7,300.00",347,18400,54600
+"998",998,"Textron","United States","$14,400.00",395,15000,16800
+"999",999,"Dassault Aviation","France","$5,500.00",800,18300,16800
+"1000",1000,"China Resources Pharmaceutical Group","Hong Kong","$22,100.00",447,20600,8500
+"1001",1001,"MediaTek","Taiwan","$7,700.00",677,14200,16900
+"1002",1002,"Shenzhen Overseas","China","$4,300.00",1000,38000,10600
+"1003",1003,"Ball","United States","$11,300.00",456,17700,13500
+"1004",1004,"Electronic Arts","United States","$5,100.00",1000,8600,40700
+"1005",1005,"Shin Kong Financial","Taiwan","$14,800.00",346,113700,4200
+"1006",1006,"Onex","Canada","$25,300.00",NA,44700,7200
+"1007",1007,"Tata Steel","India","$19,900.00",303,26700,10200
+"1008",1008,"Shimizu","Japan","$13,700.00",767,16900,7900
+"1009",1009,"Tohoku Electric Power","Japan","$18,700.00",426,39700,6600
+"1010",1010,"NEC","Japan","$25,700.00",414,26500,7200
+"1011",1011,"CGI Group","Canada","$8,700.00",814,9600,17200
+"1012",1012,"Unipol Gruppo","Italy","$16,100.00",NA,107000,3700
+"1013",1013,"Yes Bank","India","$4,000.00",657,47900,12000
+"1014",1014,"UBI Banca","Italy","$5,300.00",779,153000,5800
+"1015",1015,"Agile Property Holdings","China","$7,700.00",899,25100,7900
+"1016",1016,"Gemdale","China","$5,300.00",1100,35700,8100
+"1017",1017,"Interactive Brokers Group","United States","$2,000.00",98,59100,32800
+"1018",1018,"Amphenol","United States","$7,300.00",691,9400,26500
+"1019",1019,"Discovery Communications","United States","$7,600.00",NA,34700,16800
+"1020",1020,"Public Storage","United States","$2,700.00",1400,10700,36900
+"1021",1021,"Quanta Computer","Taiwan","$33,600.00",472,20600,6900
+"1022",1022,"Air Canada","Canada","$13,000.00",1500,14700,5100
+"1023",1023,"AvalonBay Communities","United States","$2,200.00",781,18600,23000
+"1024",1024,"HAL Trust","Monaco","$9,100.00",441,19500,14800
+"1025",1025,"AerCap Holdings","Ireland","$5,000.00",1100,42500,8000
+"1026",1026,"Pgnig Group","Poland","$10,400.00",800,13900,10300
+"1027",1027,"WW Grainger","United States","$10,700.00",637,5900,16600
+"1028",1028,"AGNC Investment","United States","$2,200.00",1100,69200,7400
+"1029",1029,"AntarChile","Chile","$20,300.00",399,22700,8500
+"1030",1030,"Kuwait Finance House","Kuwait","$3,400.00",627,58000,10900
+"1031",1031,"Concho Resources","United States","$2,900.00",1100,14400,22800
+"1032",1032,"GS Holdings","South Korea","$14,800.00",727,20700,5500
+"1033",1033,"Chongqing Changan Auto","China","$12,000.00",921,17000,7200
+"1034",1034,"Schroders","United Kingdom","$3,300.00",764,30400,13200
+"1035",1035,"Bankinter","Spain","$2,500.00",601,87700,9800
+"1036",1036,"Scor","France","$15,900.00",323,49500,7600
+"1037",1037,"JBS","Brazil","$51,100.00",189,32800,6700
+"1038",1038,"Continental Resources","United States","$3,500.00",1000,14400,25400
+"1039",1039,"JSW Steel","India","$10,100.00",650,14100,11600
+"1040",1040,"Japan Exchange Group","Japan","$1,100.00",456,388500,10200
+"1041",1041,"Metro Group","Germany","$41,900.00",488,19100,5100
+"1042",1042,"Guosen Securities","China","$1,400.00",645,32600,14000
+"1043",1043,"Whirlpool","United States","$21,400.00",291,20300,11000
+"1044",1044,"Kingfisher","United Kingdom","$15,200.00",631,14700,8700
+"1045",1045,"Cincinnati Financial","United States","$5,400.00",813,21500,11800
+"1046",1046,"DaVita","United States","$13,400.00",395,18900,11600
+"1047",1047,"CDW","United States","$15,500.00",592,7000,11900
+"1048",1048,"Bank Of Hangzhou","China","$5,400.00",673,128000,6700
+"1049",1049,"Kobe Steel","Japan","$17,000.00",570,22100,3900
+"1050",1050,"General Growth Properties","United States","$2,400.00",614,23300,19800
+"1051",1051,"Angang Steel","China","$12,900.00",930,14600,7400
+"1052",1052,"Leucadia National","United States","$12,200.00",15,49000,8500
+"1053",1053,"Pembina Pipeline","Canada","$4,500.00",784,20100,17400
+"1054",1054,"WR Berkley","United States","$7,700.00",592,24600,9400
+"1055",1055,"Tenaris","Luxembourg","$6,000.00",566,14700,23000
+"1056",1056,"KT Corp","South Korea","$21,100.00",426,28600,6300
+"1057",1057,"Conagra Brands","United States","$7,800.00",890,10500,14900
+"1058",1058,"Expedia Group","United States","$10,400.00",327,20400,17100
+"1059",1059,"Inner Mongolia Baotou Steel","China","$8,400.00",377,23300,14500
+"1060",1060,"TCL Corp","China","$16,800.00",445,25900,7000
+"1061",1061,"CMS Energy","United States","$6,700.00",502,22900,12800
+"1062",1062,"Dexia","Belgium","$11,100.00",NA,217300,16
+"1063",1063,"Legrand","France","$6,200.00",802,11300,21100
+"1064",1064,"GKN","United Kingdom","$12,500.00",648,12000,11100
+"1065",1065,"Cosmo Energy Holdings","Japan","$22,800.00",657,15900,2900
+"1066",1066,"Intact Financial","Canada","$7,200.00",610,21600,10400
+"1067",1067,"CJ Corporation","South Korea","$23,800.00",410,27400,4500
+"1068",1068,"Shanghai Construction","China","$21,900.00",395,30300,5100
+"1069",1069,"MTN Group","South Africa","$10,000.00",332,19600,18400
+"1070",1070,"Investec","United Kingdom","$5,400.00",616,69500,7500
+"1071",1071,"Zhejiang Zheneng Electric Power","China","$8,000.00",599,17800,11000
+"1072",1072,"BDO Unibank","Philippines","$3,000.00",554,53600,11100
+"1073",1073,"Grupo Inbursa","Mexico","$4,500.00",979,28700,10400
+"1074",1074,"Lonza Group","Switzerland","$5,200.00",740,14600,19700
+"1075",1075,"Torchmark","United States","$4,200.00",1500,23200,9700
+"1076",1076,"Grasim Industries","India","$7,500.00",420,31600,10700
+"1077",1077,"Campbell Soup","United States","$7,900.00",1100,8300,12200
+"1078",1078,"Krung Thai Bank","Thailand","$4,800.00",626,92300,7600
+"1079",1079,"Renesas Electronics","Japan","$7,100.00",827,9600,16700
+"1080",1080,"Lenovo Group","Hong Kong","$44,300.00",NA,29500,5800
+"1081",1081,"L Brands","United States","$12,600.00",983,8100,9000
+"1082",1082,"Ventas","United States","$3,600.00",563,23500,19100
+"1083",1083,"Advanced Semiconductor","Taiwan","$9,600.00",751,12200,11200
+"1084",1084,"GD Power Development","China","$9,100.00",363,44400,8900
+"1085",1085,"C.H. Robinson","United States","$15,400.00",525,4300,12000
+"1086",1086,"Arthur J. Gallagher","United States","$6,500.00",681,16100,12500
+"1087",1087,"Sojitz","Japan","$16,400.00",513,22100,4800
+"1088",1088,"Korean Air","South Korea","$10,700.00",700,23000,3100
+"1089",1089,"Steel Dynamics","United States","$9,800.00",840,7000,11400
+"1090",1090,"Jiangsu Yanghe Brewery","China","$2,900.00",1100,7100,30900
+"1091",1091,"Universal Health","United States","$10,500.00",770,11000,11200
+"1092",1092,"Guangzhou Rural Commercial Bank","China","$4,600.00",846,95100,6600
+"1093",1093,"Pegatron","Taiwan","$39,200.00",483,16400,5900
+"1094",1094,"RiseSun Real Estate Development","China","$5,900.00",891,31400,7200
+"1095",1095,"Helvetia Holding","Switzerland","$9,800.00",412,60000,5900
+"1096",1096,"Moody's","United States","$4,400.00",1000,9000,33400
+"1097",1097,"Celanese","United States","$6,500.00",1000,9800,14700
+"1098",1098,"UC Rusal","Cyprus","$10,000.00",1200,16000,3900
+"1099",1099,"Newmont Mining","United States","$7,500.00",48,20500,21500
+"1100",1100,"Carlsberg","Denmark","$9,400.00",191,18800,17400
+"1101",1101,"Kerry Group","Ireland","$7,200.00",664,8900,18700
+"1102",1102,"Concordia Financial Group","Japan","$2,900.00",599,175500,7300
+"1103",1103,"Markel","United States","$6,300.00",248,32900,16100
+"1104",1104,"Symantec","United States","$4,800.00",1200,15800,12100
+"1105",1105,"Aeroports de Paris","France","$4,100.00",644,17100,21800
+"1106",1106,"Bank Pekao","Poland","$2,300.00",656,53400,8800
+"1107",1107,"Intuitive Surgical","United States","$3,300.00",768,6400,53100
+"1108",1108,"Hainan Airlines","China","$9,400.00",583,29600,NA
+"1109",1109,"BAIC Motor","China","$19,900.00",334,25700,7800
+"1110",1110,"Quest Diagnostics","United States","$7,700.00",782,10700,13900
+"1111",1111,"KPN","Netherlands","$7,300.00",545,16200,12700
+"1112",1112,"Aramark","United States","$15,200.00",498,13700,9400
+"1113",1113,"Arch Capital Group","Bermuda","$5,400.00",507,32100,10800
+"1114",1114,"DSV","Denmark","$11,800.00",484,6400,14900
+"1115",1115,"Hankyu Hanshin Holdings","Japan","$6,600.00",635,21200,9700
+"1116",1116,"AU Optronics","Taiwan","$11,200.00",1100,14800,4100
+"1117",1117,"Origin Energy","Australia","$11,400.00",NA,19900,13100
+"1118",1118,"Tokyo Century","Japan","$9,100.00",463,35400,7200
+"1119",1119,"Singapore Airlines","Singapore","$11,200.00",415,20100,9900
+"1120",1120,"Eletrobrás","Brazil","$11,900.00",NA,52100,7100
+"1121",1121,"Dubai Islamic Bank","United Arab Emirates","$2,800.00",1100,57500,6600
+"1122",1122,"Grifols","Spain","$5,000.00",785,13400,18700
+"1123",1123,"Arab National Bank","Saudi Arabia","$2,100.00",807,45800,8000
+"1124",1124,"Attijariwafa Bank","Morocco","$3,700.00",555,50900,10000
+"1125",1125,"Thai Beverage","Thailand","$5,600.00",874,12600,15200
+"1126",1126,"Qantas Airways","Australia","$12,500.00",724,14000,7700
+"1127",1127,"XPO Logistics","United States","$16,000.00",363,13000,13200
+"1128",1128,"Air France-KLM","France","$29,100.00",NA,29300,3800
+"1129",1129,"Saputo","Canada","$8,900.00",683,6400,13000
+"1130",1130,"BCI-Banco Credito","Chile","$3,200.00",572,55100,9200
+"1131",1131,"Sika","Switzerland","$6,300.00",654,5900,20600
+"1132",1132,"Mondi","United Kingdom","$8,000.00",757,8700,13100
+"1133",1133,"Mitsubishi UFJ Lease","Japan","$7,700.00",489,49400,6100
+"1134",1134,"Korea Gas","South Korea","$19,600.00",NA,34700,4600
+"1135",1135,"Bombardier","Canada","$16,700.00",NA,26700,7800
+"1136",1136,"Brighthouse Financial","United States","$8,400.00",NA,219000,5800
+"1137",1137,"Cheniere Energy","United States","$6,700.00",NA,28300,15200
+"1138",1138,"Hyundai Marine & Fire","South Korea","$11,700.00",411,36900,3200
+"1139",1139,"Power Assets Holdings","Hong Kong","$182.00",1100,13700,16100
+"1140",1140,"Yara International","Norway","$11,500.00",390,16700,11400
+"1141",1141,"Datang International Power","China","$9,900.00",245,40000,8600
+"1142",1142,"AES","United States","$12,500.00",158,32600,8100
+"1143",1143,"Cintas","United States","$6,300.00",660,6900,19600
+"1144",1144,"Ajinomoto","Japan","$10,400.00",551,13400,10400
+"1145",1145,"RTL Group","Luxembourg","$7,200.00",834,9600,13000
+"1146",1146,"NRG Energy","United States","$10,600.00",NA,23800,11000
+"1147",1147,"Arca Continental","Mexico","$8,100.00",685,12600,11200
+"1148",1148,"Lixil Group","Japan","$15,400.00",493,19800,6600
+"1149",1149,"Nitto Denko","Japan","$7,700.00",788,8800,12300
+"1150",1150,"Sino-Ocean Land Holdings","China","$6,900.00",757,29500,5400
+"1151",1151,"Terumo","Japan","$5,300.00",824,9600,20100
+"1152",1152,"Magnit","Russia","$19,600.00",608,9200,8100
+"1153",1153,"Liberty Broadband","United States","$22.00",2000,12000,12800
+"1154",1154,"Harbin Bank","China","$4,400.00",777,86600,3000
+"1155",1155,"First Financial Holding","Taiwan","$2,500.00",509,88500,8500
+"1156",1156,"Cerner","United States","$5,200.00",854,6500,20200
+"1157",1157,"China Molybdenum","China","$3,800.00",564,15600,25600
+"1158",1158,"Jeronimo Martins","Portugal","$19,600.00",459,7700,10300
+"1159",1159,"Boston Properties","United States","$2,600.00",541,19600,19200
+"1160",1160,"SGS","Switzerland","$6,500.00",631,6100,19000
+"1161",1161,"Amcor","Australia","$9,100.00",640,9100,12100
+"1162",1162,"J.B. Hunt Transport Services","United States","$7,500.00",702,4400,13700
+"1163",1163,"President Chain Store","Taiwan","$7,600.00",1000,4700,10600
+"1164",1164,"Vienna Insurance Group","Austria","$11,200.00",322,61200,4100
+"1165",1165,"Dover","United States","$7,900.00",771,10500,11900
+"1166",1166,"Hoya","Japan","$4,800.00",898,6100,21600
+"1167",1167,"Foncière des Régions","France","$1,100.00",1000,26200,8600
+"1168",1168,"Metro","Canada","$10,400.00",1300,6700,7300
+"1169",1169,"China Shipbuilding Industry","China","$5,100.00",126,32000,18600
+"1170",1170,"Samsung SDI","South Korea","$6,200.00",632,15300,11900
+"1171",1171,"Clorox","United States","$6,100.00",807,5400,15600
+"1172",1172,"AGL Energy","Australia","$10,000.00",641,11200,10900
+"1173",1173,"Inter Rao","Russia","$15,700.00",923,10900,6700
+"1174",1174,"Beijing Enterprises","Hong Kong","$7,400.00",883,21900,6600
+"1175",1175,"Monster Beverage","United States","$3,500.00",859,4700,27700
+"1176",1176,"Flextronics International","Singapore","$25,400.00",429,13700,7800
+"1177",1177,"Fidelity National Financial","United States","$8,800.00",796,9000,10500
+"1178",1178,"Evraz Group","United Kingdom","$10,800.00",686,10400,10000
+"1179",1179,"Orient Securities","China","$1,400.00",472,35800,12200
+"1180",1180,"Industrial Alliance Insurance","Canada","$8,200.00",436,48400,4500
+"1181",1181,"Meiji Holdings","Japan","$11,200.00",553,8700,11500
+"1182",1182,"Hyundai Heavy Industries","South Korea","$12,300.00",NA,28400,8300
+"1183",1183,"Cosco Shipping","China","$13,900.00",380,20600,8000
+"1184",1184,"Punjab National Bank","India","$8,500.00",177,112900,3600
+"1185",1185,"Arrow Electronics","United States","$27,900.00",427,16100,6700
+"1186",1186,"Hindalco Industries","India","$14,900.00",283,23700,8100
+"1187",1187,"Norwegian Cruise Line Holdings","United States","$5,500.00",801,14500,11600
+"1188",1188,"Ternium","Luxembourg","$9,700.00",905,12400,7800
+"1189",1189,"Terna","Italy","$2,500.00",776,20400,11700
+"1190",1190,"Oriental Land","Japan","$4,300.00",733,8600,34200
+"1191",1191,"Harris","United States","$6,100.00",639,10100,18600
+"1192",1192,"Ashtead Group","United Kingdom","$4,700.00",1300,9000,14800
+"1193",1193,"FamilyMart","Japan","$11,400.00",295,16200,12700
+"1194",1194,"Wm Morrison Supermarkets","United Kingdom","$22,400.00",404,13700,8100
+"1195",1195,"KION Group","Germany","$9,000.00",527,14200,10200
+"1196",1196,"Coty","United States","$9,300.00",NA,23800,10700
+"1197",1197,"Lendlease Group","Australia","$13,300.00",605,12400,7900
+"1198",1198,"Arkema","France","$9,400.00",650,11600,10000
+"1199",1199,"Givaudan","Switzerland","$5,100.00",732,7500,21100
+"1200",1200,"Paychex","United States","$3,300.00",901,6800,22800
+"1201",1201,"Focus Media Information Technology","China","$1,800.00",921,2500,22200
+"1202",1202,"Innolux","Taiwan","$10,300.00",937,13900,3900
+"1203",1203,"Materials Industry Zhongda Group","China","$41,100.00",403,15300,4400
+"1204",1204,"NASDAQ","United States","$4,100.00",741,15800,15100
+"1205",1205,"Ricoh","Japan","$18,600.00",NA,24800,6900
+"1206",1206,"RSA Insurance Group","United Kingdom","$9,200.00",372,24800,9100
+"1207",1207,"PVH","United States","$8,900.00",538,11900,11800
+"1208",1208,"East West Bancorp","United States","$1,600.00",523,37700,10100
+"1209",1209,"National Oilwell Varco","United States","$7,400.00",NA,20000,15500
+"1210",1210,"Top Frontier Investment Holdings","Philippines","$16,400.00",244,30000,1700
+"1211",1211,"Ihs Markit","United Kingdom","$3,700.00",592,14700,20400
+"1212",1212,"Hesteel","China","$15,900.00",233,30600,5500
+"1213",1213,"Electric Power Development","Japan","$7,700.00",618,24900,5100
+"1214",1214,"Magnitogorsk Iron & Steel","Russia","$7,900.00",1200,7900,8300
+"1215",1215,"Koito Manufacturing","Japan","$7,700.00",753,6300,11300
+"1216",1216,"Ayala","Philippines","$4,800.00",600,20500,11500
+"1217",1217,"Wynn Resorts","United States","$6,500.00",442,12200,21200
+"1218",1218,"Bank of Baroda","India","$7,800.00",271,110800,5600
+"1219",1219,"Brown-Forman","United States","$3,200.00",751,5000,27300
+"1220",1220,"Worldpay","United States","$3,900.00",4,29000,24000
+"1221",1221,"Bank of Tianjin","China","$4,400.00",576,107800,3600
+"1222",1222,"Yuanta Financial Holding","Taiwan","$4,400.00",641,78700,5700
+"1223",1223,"UCB","Belgium","$5,100.00",849,11900,14200
+"1224",1224,"E-mart","South Korea","$14,000.00",542,15000,6800
+"1225",1225,"Shiseido","Japan","$9,400.00",339,8500,26300
+"1226",1226,"X5 Retail Group","Netherlands","$23,200.00",492,9600,7900
+"1227",1227,"SKF Group","Sweden","$9,500.00",694,10300,9700
+"1228",1228,"Yum China Holdings","United States","$8,100.00",516,4900,14500
+"1229",1229,"Phoenix Group Holdings","United Kingdom","$7,800.00",NA,100200,4200
+"1230",1230,"Samsung SDS","South Korea","$8,200.00",469,6800,16200
+"1231",1231,"Equity Residential","United States","$2,500.00",409,20400,23000
+"1232",1232,"Hna Technology","China","$48,100.00",118,17900,NA
+"1233",1233,"Lotte Shopping","South Korea","$18,600.00",NA,26100,6300
+"1234",1234,"Alexion Pharmaceuticals","United States","$3,600.00",522,13800,26600
+"1235",1235,"China Gas Holdings","Hong Kong","$5,100.00",752,8900,18600
+"1236",1236,"Antofagasta","United Kingdom","$4,700.00",747,14200,14000
+"1237",1237,"Airports of Thailand","Thailand","$1,700.00",645,5500,32000
+"1238",1238,"Hess","United States","$5,600.00",NA,22100,19300
+"1239",1239,"Host Hotels & Resorts","United States","$5,400.00",659,12100,15400
+"1240",1240,"Sun Art Retail Group","Hong Kong","$15,100.00",411,9200,11200
+"1241",1241,"Waste Connections","Canada","$4,700.00",685,12000,19900
+"1242",1242,"Penske Automotive","United States","$22,100.00",639,10800,4000
+"1243",1243,"Advanced Info Service","Thailand","$4,600.00",886,8700,18400
+"1244",1244,"Johnson Matthey","United Kingdom","$16,300.00",478,6100,9100
+"1245",1245,"Experian","Ireland","$4,300.00",821,7600,21600
+"1246",1246,"Industries Qatar","Qatar","$1,300.00",1000,9200,18300
+"1247",1247,"LG Household & Health Care","South Korea","$5,700.00",561,4600,20600
+"1248",1248,"Ooredoo Telecom","Qatar","$8,900.00",513,24200,6000
+"1249",1249,"Jiangxi Copper","China","$31,700.00",279,15000,7800
+"1250",1250,"Illumina","United States","$2,900.00",567,5500,39200
+"1251",1251,"Wanhua Chemical Group","China","$8,300.00",1900,10600,NA
+"1252",1252,"3i Group","United Kingdom","$353.00",1500,9600,12900
+"1253",1253,"E.Sun Financial","Taiwan","$1,900.00",527,72800,7200
+"1254",1254,"Electrolux Group","Sweden","$14,500.00",625,10700,7600
+"1255",1255,"Hexagon","Sweden","$4,100.00",852,10500,19900
+"1256",1256,"Taiwan Cooperative Financial","Taiwan","$3,000.00",471,114600,7100
+"1257",1257,"Aroundtown Property Holdings","Luxembourg","$594.00",1400,16500,8600
+"1258",1258,"Bank of Zhengzhou","China","$3,000.00",633,66900,2600
+"1259",1259,"Kerry Properties","Hong Kong","$4,700.00",1200,22200,7100
+"1260",1260,"Dassault Systemes","France","$3,600.00",586,8400,34600
+"1261",1261,"Charoen Pokphand Foods","Thailand","$14,800.00",436,18200,6300
+"1262",1262,"FleetCor Technologies","United States","$2,300.00",791,11700,18200
+"1263",1263,"Doosan","South Korea","$15,500.00",34,26900,2200
+"1264",1264,"Banca MPS","Italy","$6,500.00",NA,167300,4200
+"1265",1265,"Equinix","United States","$4,600.00",254,19900,31900
+"1266",1266,"Alcoa","United States","$12,200.00",142,17100,10100
+"1267",1267,"Hunan Valin Steel","China","$11,800.00",807,12100,3900
+"1268",1268,"Petronas Chemicals","Malaysia","$4,000.00",972,8900,17100
+"1269",1269,"Zhongyuan Bank","China","$3,200.00",569,80200,6300
+"1270",1270,"Tenet Healthcare","United States","$19,100.00",NA,23200,3300
+"1271",1271,"Canara Bank","India","$7,400.00",203,91800,2700
+"1272",1272,"China Life Insurance (Taiwan)","Taiwan","$9,500.00",299,49300,4000
+"1273",1273,"US Foods","United States","$24,200.00",484,9200,7400
+"1274",1274,"Goldcorp","Canada","$3,400.00",556,21600,12000
+"1275",1275,"Henry Schein","United States","$12,800.00",423,7900,11200
+"1276",1276,"Chesapeake Energy","United States","$9,300.00",1100,12100,3100
+"1277",1277,"WellCare Health Plans","United States","$17,700.00",408,9700,9700
+"1278",1278,"Ctrip.com International","China","$4,000.00",320,24900,23300
+"1279",1279,"Welltower","United States","$4,400.00",197,27700,20900
+"1280",1280,"Alstom","France","$8,300.00",413,16800,10200
+"1281",1281,"Shionogi","Japan","$3,100.00",982,6800,16500
+"1282",1282,"Canadian Tire","Canada","$10,400.00",566,12500,8400
+"1283",1283,"Ferrari","Italy","$4,000.00",655,5400,25000
+"1284",1284,"Huadian Power International","China","$11,600.00",65,34300,5500
+"1285",1285,"Chiba Bank","Japan","$1,800.00",485,135200,6100
+"1286",1286,"Kinnevik","Sweden","$2,000.00",1900,11500,10300
+"1287",1287,"LARGAN Precision","Taiwan","$1,700.00",854,3900,18400
+"1288",1288,"Arconic","United States","$13,200.00",NA,18200,8800
+"1289",1289,"Indorama Ventures","Thailand","$8,400.00",585,8800,10800
+"1290",1290,"Leonardo","Italy","$13,000.00",307,30100,6600
+"1291",1291,"Skyworks Solutions","United States","$3,900.00",874,4700,17700
+"1292",1292,"Bank of India","India","$6,900.00",NA,97300,2600
+"1293",1293,"OMRON","Japan","$7,800.00",570,7000,11700
+"1294",1294,"Joint Stock Commercial Bank for Foreign Trade of Vietnam","Vietnam","$2,700.00",457,44000,9100
+"1295",1295,"Turkish Airlines","Turkey","$11,700.00",475,18500,5200
+"1296",1296,"AAC Technologies Holdings","China","$3,100.00",791,4700,18900
+"1297",1297,"ManpowerGroup","United States","$21,800.00",568,8900,6300
+"1298",1298,"Rural Electrification","India","$3,600.00",942,32400,3500
+"1299",1299,"Mirae Asset Daewoo","South Korea","$3,300.00",533,84700,6300
+"1300",1300,"Partners Group Holding","Switzerland","$1,400.00",764,3000,19900
+"1301",1301,"Bank Of Guiyang","China","$2,200.00",550,73200,4900
+"1302",1302,"Osaka Gas","Japan","$11,700.00",340,17900,9000
+"1303",1303,"Bank of Chongqing","China","$3,200.00",565,67400,2300
+"1304",1304,"Vedanta Resources","United Kingdom","$13,400.00",NA,28100,2900
+"1305",1305,"Jiangsu Hengrui Medicine","China","$2,200.00",506,3000,39800
+"1306",1306,"Wuestenrot & Wuerttembergische","Germany","$7,000.00",290,86100,2200
+"1307",1307,"Wolters Kluwer","Netherlands","$5,000.00",756,10200,15600
+"1308",1308,"McCormick","United States","$5,000.00",807,10400,14000
+"1309",1309,"Umicore","Belgium","$13,500.00",239,6200,13900
+"1310",1310,"Liberty Expedia Holdings","United States","$10,600.00",NA,35800,2300
+"1311",1311,"Nitori Holdings","Japan","$5,100.00",576,5200,19000
+"1312",1312,"Ultrapar Participacoes","Brazil","$25,500.00",398,8600,8200
+"1313",1313,"Foshan Haitian Flavouring and Food","China","$2,300.00",567,2600,28900
+"1314",1314,"Masco","United States","$7,800.00",538,5600,11800
+"1315",1315,"Valeant Pharmaceuticals","Canada","$8,600.00",NA,35800,7300
+"1316",1316,"Future Land Development Holdings","China","$6,100.00",571,29100,4700
+"1317",1317,"Naver","South Korea","$4,400.00",659,7500,22100
+"1318",1318,"Toppan Printing","Japan","$12,900.00",423,19000,5300
+"1319",1319,"Autoliv","Sweden","$10,600.00",410,8900,12400
+"1320",1320,"Kangmei Pharmaceutical","China","$4,300.00",672,11500,19400
+"1321",1321,"Rockwell Automation","United States","$6,500.00",412,6500,22300
+"1322",1322,"Huntsman","United States","$9,300.00",834,10700,7600
+"1323",1323,"Edwards Lifesciences","United States","$3,400.00",560,5800,29100
+"1324",1324,"New Residential Investment","United States","$2,300.00",1400,22000,6000
+"1325",1325,"Shoprite Holdings","South Africa","$10,900.00",444,5100,11000
+"1326",1326,"Olam International","Singapore","$19,000.00",380,16700,5500
+"1327",1327,"Chugoku Electric Power","Japan","$11,900.00",187,29900,4400
+"1328",1328,"LKQ","United States","$10,100.00",552,9600,9400
+"1329",1329,"Nielsen","United States","$6,700.00",430,16900,10700
+"1330",1330,"BorgWarner","United States","$10,200.00",476,10000,10600
+"1331",1331,"Expeditors International","United States","$7,200.00",532,3200,12600
+"1332",1332,"Shanxi Taigang Stainless","China","$10,400.00",869,11600,5400
+"1333",1333,"Packaging Corp of America","United States","$6,600.00",686,6100,11000
+"1334",1334,"Darden Restaurants","United States","$7,900.00",545,5500,11200
+"1335",1335,"Smith & Nephew","United Kingdom","$4,800.00",764,7900,15400
+"1336",1336,"Unicharm","Japan","$5,900.00",500,6800,17600
+"1337",1337,"Nippon Yusen","Japan","$19,700.00",182,19500,3800
+"1338",1338,"Alinma Bank","Saudi Arabia","$1,400.00",579,30300,8100
+"1339",1339,"Mitsui Chemicals","Japan","$11,600.00",675,12300,5900
+"1340",1340,"Assurant","United States","$6,400.00",482,32400,4600
+"1341",1341,"Quinenco","Chile","$7,300.00",171,61800,5400
+"1342",1342,"Ulta Salon Cosmetcs & Fragrance","United States","$5,900.00",555,3000,15100
+"1343",1343,"Everest Re Group","Bermuda","$6,800.00",378,23500,9400
+"1344",1344,"Interpublic Group","United States","$8,300.00",543,12200,9400
+"1345",1345,"Grupo Bimbo","Mexico","$14,500.00",265,13400,9700
+"1346",1346,"Boliden","Sweden","$6,000.00",863,7200,10300
+"1347",1347,"American Water Works","United States","$3,400.00",439,19700,14900
+"1348",1348,"Shizuoka Bank","Japan","$1,900.00",452,108400,6100
+"1349",1349,"Check Point Software","Israel","$1,900.00",808,5400,15900
+"1350",1350,"Jyske Bank","Denmark","$2,700.00",463,96400,4900
+"1351",1351,"United Internet","Germany","$5,300.00",693,9200,13500
+"1352",1352,"BPER Banca","Italy","$3,000.00",483,84800,2900
+"1353",1353,"SDIC Power Holdings","China","$4,900.00",497,33800,7600
+"1354",1354,"Digital Realty Trust","United States","$2,600.00",271,21600,22400
+"1355",1355,"Alaska Air Group","United States","$8,000.00",933,10800,7500
+"1356",1356,"Skanska","Sweden","$18,500.00",351,13600,7900
+"1357",1357,"Olympus","Japan","$7,100.00",515,9200,12600
+"1358",1358,"Smurfit Kappa Group","Ireland","$9,700.00",470,11400,10000
+"1359",1359,"Marathon Oil","United States","$4,900.00",NA,21600,17900
+"1360",1360,"PGE Polska Grupa Energetyczna","Poland","$6,100.00",705,20800,5600
+"1361",1361,"Ametek","United States","$4,500.00",724,8100,17300
+"1362",1362,"BBMG","China","$9,100.00",320,37400,6600
+"1363",1363,"Chemours","United States","$6,500.00",893,7500,9000
+"1364",1364,"TransDigm Group","United States","$3,600.00",719,10400,17500
+"1365",1365,"Shinsei Bank","Japan","$3,200.00",464,88900,4200
+"1366",1366,"Alrosa","Russia","$4,700.00",1300,7400,10500
+"1367",1367,"China International Marine","China","$12,100.00",370,21700,5800
+"1368",1368,"British Land","United Kingdom","$790.00",794,17500,9200
+"1369",1369,"Qatar Islamic Bank","Qatar","$1,300.00",609,41700,6700
+"1370",1370,"Nordstrom","United States","$15,500.00",438,8100,8200
+"1371",1371,"Wyndham Worldwide","United States","$5,500.00",764,11100,11100
+"1372",1372,"Mosaic","United States","$7,800.00",NA,20500,10200
+"1373",1373,"Nine Dragons Paper Holdings","Hong Kong","$6,800.00",1000,10900,7900
+"1374",1374,"Saudi Arabian Mining","Saudi Arabia","$3,400.00",302,25300,17200
+"1375",1375,"KLA-Tencor","United States","$3,900.00",710,5600,17300
+"1376",1376,"Coca-Cola HBC","Switzerland","$7,400.00",482,8000,12600
+"1377",1377,"ALFA","Mexico","$17,400.00",NA,19100,5800
+"1378",1378,"Transurban Group","Australia","$2,300.00",358,19600,19900
+"1379",1379,"Asustek Computer","Taiwan","$14,300.00",511,11600,7000
+"1380",1380,"Bawag Group","Austria","$1,600.00",526,55300,5100
+"1381",1381,"Everbright Securities","China","$1,400.00",478,32400,8700
+"1382",1382,"PBF Energy","United States","$22,800.00",476,8300,4600
+"1383",1383,"UGI","United States","$7,200.00",628,12400,8600
+"1384",1384,"Cathay Pacific Airways","Hong Kong","$12,500.00",NA,24100,6600
+"1385",1385,"Coloplast","Denmark","$2,500.00",593,2100,20200
+"1386",1386,"China Galaxy Securities","China","$1,700.00",585,43100,6500
+"1387",1387,"Global Payments","United States","$3,900.00",511,12900,18500
+"1388",1388,"Logan Property Holdings","China","$4,200.00",951,17200,8200
+"1389",1389,"Medipal Holdings","Japan","$27,900.00",296,15000,4900
+"1390",1390,"Chow Tai Fook Jewellery","Hong Kong","$7,000.00",464,7100,13400
+"1391",1391,"Maanshan Iron & Steel","China","$11,100.00",706,11300,4500
+"1392",1392,"Meritz Financial Group","South Korea","$8,300.00",321,39000,1800
+"1393",1393,"NVR","United States","$6,400.00",601,2800,11100
+"1394",1394,"Delta Electronics","Taiwan","$7,500.00",575,8300,10000
+"1395",1395,"Royal Mail","United Kingdom","$12,700.00",450,9200,8600
+"1396",1396,"China Jinmao","Hong Kong","$4,600.00",586,34100,6800
+"1397",1397,"Sekisui Chemical","Japan","$10,000.00",573,9400,8000
+"1398",1398,"Mebuki Financial Group","Japan","$2,000.00",394,148300,4700
+"1399",1399,"Latam Airlines","Chile","$9,800.00",174,18700,8600
+"1400",1400,"Storebrand","Norway","$6,100.00",325,72500,4000
+"1401",1401,"Mitsui OSK Lines","Japan","$14,900.00",NA,20000,3600
+"1402",1402,"GAIL India","India","$7,200.00",502,9100,11500
+"1403",1403,"Arab Bank","Jordan","$2,500.00",523,47900,6700
+"1404",1404,"Brenntag","Germany","$13,200.00",407,8900,9200
+"1405",1405,"Total System Services","United States","$4,700.00",622,7500,16100
+"1406",1406,"KT&G","South Korea","$4,100.00",1000,9300,11800
+"1407",1407,"ON Semiconductor Corp.","United States","$5,500.00",872,7300,10000
+"1408",1408,"Encana","Canada","$4,300.00",556,15100,12700
+"1409",1409,"Navient","United States","$5,400.00",330,113200,3600
+"1410",1410,"Persimmon","United Kingdom","$4,400.00",1000,6400,11800
+"1411",1411,"Targa Resources","United States","$9,200.00",196,14800,10600
+"1412",1412,"Nanya Technology","Taiwan","$2,100.00",1500,5400,9600
+"1413",1413,"Bunzl","United Kingdom","$11,100.00",400,7100,10200
+"1414",1414,"Showa Shell Sekiyu","Japan","$19,400.00",470,9500,5600
+"1415",1415,"Bank Audi","Lebanon","$3,300.00",542,43300,2300
+"1416",1416,"China International Capital","China","$2,300.00",403,36500,9000
+"1417",1417,"Iida Group Holdings","Japan","$11,600.00",639,10900,5600
+"1418",1418,"Nippon Express","Japan","$18,000.00",59,14300,7300
+"1419",1419,"Noble Energy","United States","$4,200.00",NA,22400,16900
+"1420",1420,"Hanwha Chemical","South Korea","$8,300.00",730,12800,4500
+"1421",1421,"Oji Holdings","Japan","$13,400.00",328,18500,6900
+"1422",1422,"FMC","United States","$3,500.00",927,10100,12000
+"1423",1423,"PulteGroup","United States","$8,900.00",521,9700,8900
+"1424",1424,"Mitsubishi Materials","Japan","$14,400.00",312,18900,3800
+"1425",1425,"Red Eléctrica","Spain","$2,200.00",756,13100,11100
+"1426",1426,"EQT","United States","$3,600.00",NA,27600,13500
+"1427",1427,"Mallinckrodt","United Kingdom","$3,000.00",1700,15500,1200
+"1428",1428,"Vulcan Materials","United States","$4,000.00",609,9500,16800
+"1429",1429,"US Steel","United States","$12,700.00",585,10000,6300
+"1430",1430,"Ahli United Bank","Bahrain","$1,700.00",598,33900,4800
+"1431",1431,"Accor","France","$2,200.00",456,14500,16100
+"1432",1432,"Yamato Holdings","Japan","$13,900.00",165,10500,10600
+"1433",1433,"AVIC Capita","China","$1,900.00",459,36200,7700
+"1434",1434,"Goodyear","United States","$15,500.00",255,17600,6100
+"1435",1435,"Next","United Kingdom","$5,300.00",769,3600,10600
+"1436",1436,"Erdemir","Turkey","$5,400.00",1100,8000,8400
+"1437",1437,"Daelim Industrial","South Korea","$11,400.00",532,12500,2700
+"1438",1438,"JetBlue Airways","United States","$7,200.00",1200,10000,6000
+"1439",1439,"Taishin Financial Holdings","Taiwan","$1,700.00",452,59500,4900
+"1440",1440,"Verisk Analytics","United States","$2,200.00",579,6200,17500
+"1441",1441,"Tech Data","United States","$36,800.00",117,12700,3100
+"1442",1442,"Alleghany","United States","$6,500.00",113,25100,9000
+"1443",1443,"BNK Financial Group","South Korea","$3,800.00",390,102500,3000
+"1444",1444,"Xiamen International Trade Group","China","$25,900.00",251,13800,2400
+"1445",1445,"Union Bank of India","India","$5,700.00",85,70300,1500
+"1446",1446,"Yonghui Superstores","China","$9,300.00",275,5200,14000
+"1447",1447,"AutoNation","United States","$21,700.00",430,10200,4200
+"1448",1448,"Pandora","Denmark","$3,500.00",875,2800,11900
+"1449",1449,"RHB Bank","Malaysia","$2,500.00",454,56900,5300
+"1450",1450,"Hyundai Engineering","South Korea","$14,700.00",248,17200,6700
+"1451",1451,"Thai Oil","Thailand","$9,900.00",733,7000,5800
+"1452",1452,"Huntington Ingalls Industries","United States","$7,600.00",516,6400,9800
+"1453",1453,"Kansas City Southern","United States","$2,700.00",960,9100,11300
+"1454",1454,"Industrivarden","Sweden","$821.00",803,12900,10200
+"1455",1455,"Lundbergs","Sweden","$2,400.00",782,15800,8700
+"1456",1456,"Bohai Financial Investment Holding","China","$5,100.00",418,46400,5700
+"1457",1457,"Hydro One","Canada","$4,600.00",521,20500,9200
+"1458",1458,"Hua Nan Financial","Taiwan","$2,200.00",395,86500,6600
+"1459",1459,"Caltex Australia","Australia","$16,200.00",475,5000,6000
+"1460",1460,"Proximus","Belgium","$6,700.00",616,10600,9300
+"1461",1461,"Advance Auto Parts","United States","$9,400.00",476,8500,8900
+"1462",1462,"Fastenal","United States","$4,500.00",619,3000,14900
+"1463",1463,"Mashreq Bank","United Arab Emirates","$2,400.00",573,33600,3900
+"1464",1464,"Oceanwide Holdings","China","$2,300.00",600,31600,5900
+"1465",1465,"CIFI Holdings Group","China","$4,700.00",716,23300,6300
+"1466",1466,"Bankunited","United States","$1,400.00",613,30400,4400
+"1467",1467,"Csc Financial","China","$2,400.00",595,31600,6100
+"1468",1468,"Reliance Steel","United States","$10,100.00",671,8100,6600
+"1469",1469,"Community Health Systems","United States","$14,600.00",NA,17300,507
+"1470",1470,"Kintetsu","Japan","$11,000.00",272,17000,7700
+"1471",1471,"Shanghai International Airport","China","$1,300.00",590,4500,16000
+"1472",1472,"Hyundai Glovis","South Korea","$14,500.00",494,7900,5500
+"1473",1473,"New York Community","United States","$1,800.00",465,49700,5700
+"1474",1474,"Shenzhou International Group Holdings","China","$2,700.00",557,3700,17200
+"1475",1475,"Sino Land","Hong Kong","$1,500.00",961,20300,5900
+"1476",1476,"Zhongsheng Group Holdings","China","$12,800.00",498,7300,6900
+"1477",1477,"China Mengniu Dairy","Hong Kong","$8,900.00",303,8900,13800
+"1478",1478,"Martin Marietta Materials","United States","$3,900.00",679,8900,13600
+"1479",1479,"AECOM Technology","United States","$19,100.00",181,14600,5300
+"1480",1480,"Abengoa","Spain","$1,700.00",4800,7600,255
+"1481",1481,"Migdal Insurance","Israel","$6,600.00",106,42200,1000
+"1482",1482,"Sistema","Russia","$12,200.00",NA,19800,1700
+"1483",1483,"Masraf Al Rayan","Qatar","$934.00",562,28400,7000
+"1484",1484,"Bank Of Gansu","China","$2,200.00",495,41600,3500
+"1485",1485,"NSK","Japan","$9,200.00",625,10300,7000
+"1486",1486,"Merlin Properties SOCIMI S.A","Spain","$547.00",1200,14400,7100
+"1487",1487,"DCC","Ireland","$16,600.00",266,7700,8800
+"1488",1488,"Minebea","Japan","$7,900.00",536,6700,8700
+"1489",1489,"Abu Dhabi Islamic Bank","United Arab Emirates","$1,800.00",544,33800,3300
+"1490",1490,"LG Uplus","South Korea","$11,100.00",477,12800,5200
+"1491",1491,"Almarai","Saudi Arabia","$3,700.00",568,8500,16000
+"1492",1492,"Kaisa Group Holdings","China","$4,900.00",485,32800,3400
+"1493",1493,"NEXON","Japan","$2,300.00",753,5400,12200
+"1494",1494,"Gudang Garam","Indonesia","$6,300.00",577,4600,9700
+"1495",1495,"Kawasaki Heavy Industries","Japan","$14,200.00",261,16800,5400
+"1496",1496,"Ryder System","United States","$7,500.00",783,11700,3600
+"1497",1497,"China Development Financial","Taiwan","$4,100.00",384,80400,5400
+"1498",1498,"Suzano Papel e Celulose","Brazil","$3,500.00",674,9000,13200
+"1499",1499,"Jacobs Engineering","United States","$11,900.00",232,12600,9000
+"1500",1500,"Compal Electronics","Taiwan","$29,200.00",189,12200,3000
+"1501",1501,"Hang Lung Group","Hong Kong","$1,600.00",682,25000,4300
+"1502",1502,"Chang Hwa Bank","Taiwan","$1,400.00",398,68400,5400
+"1503",1503,"Leidos","United States","$10,000.00",396,8900,9600
+"1504",1504,"Mercuries & Associates","Taiwan","$6,900.00",54,36000,591
+"1505",1505,"Segro","United Kingdom","$382.00",1200,10700,9000
+"1506",1506,"JG Summit Holdings","Philippines","$5,200.00",583,14900,8400
+"1507",1507,"Bank Of Chengdu","China","$2,100.00",388,72200,6100
+"1508",1508,"Axiata Group","Malaysia","$5,700.00",212,17500,12100
+"1509",1509,"Banca Mediolanum","Italy","$3,900.00",429,51900,5800
+"1510",1510,"Maroc Telecom","Morocco","$3,600.00",588,6700,14500
+"1511",1511,"Arista Networks","United States","$1,800.00",484,2600,19300
+"1512",1512,"Church & Dwight","United States","$3,900.00",770,5900,11600
+"1513",1513,"Fukuoka Financial Group","Japan","$2,100.00",NA,176500,4700
+"1514",1514,"CA","United States","$4,200.00",471,13100,14700
+"1515",1515,"Xilinx","United States","$2,500.00",512,5100,17600
+"1516",1516,"Frontier Communications","United States","$9,000.00",NA,24700,724
+"1517",1517,"Indiabulls Housing Finance","India","$2,300.00",597,20200,7900
+"1518",1518,"Barratt Developments","United Kingdom","$6,200.00",811,9000,7700
+"1519",1519,"Hertz Global Holdings","United States","$9,000.00",349,22300,1500
+"1520",1520,"Red Star Macalline Group","China","$1,700.00",640,16300,8800
+"1521",1521,"Geberit","Switzerland","$3,000.00",536,3800,16400
+"1522",1522,"Korea Investment Holdings","South Korea","$1,800.00",451,45500,5200
+"1523",1523,"JTEKT","Japan","$13,000.00",448,12000,5400
+"1524",1524,"Alfresa Holdings","Japan","$23,500.00",321,12600,4900
+"1525",1525,"Shanghai Commercial & Savings Bank","Taiwan","$1,500.00",407,58300,5200
+"1526",1526,"Stockland Australia","Australia","$2,200.00",902,14800,7700
+"1527",1527,"Mizrahi Tefahot Bank","Israel","$2,300.00",388,69200,4400
+"1528",1528,"CJ Cheiljedang","South Korea","$14,600.00",327,15800,5300
+"1529",1529,"Avis Budget Group","United States","$9,000.00",381,19200,3500
+"1530",1530,"Starwood Property Trust","United States","$943.00",395,61100,5600
+"1531",1531,"China International Travel Service","China","$4,700.00",449,3600,18800
+"1532",1532,"Vicinity Centres","Australia","$1,100.00",1100,13500,7500
+"1533",1533,"BGF Retail","South Korea","$2,400.00",3100,802,3200
+"1534",1534,"Beijing Capital Development","China","$5,300.00",382,40300,3700
+"1535",1535,"China Merchants Holdings","Hong Kong","$1,100.00",774,16900,7500
+"1536",1536,"Sime Darby","Malaysia","$8,700.00",677,6100,4600
+"1537",1537,"Wärtsilä","Finland","$5,800.00",452,6900,12700
+"1538",1538,"Bluescope Steel","Australia","$8,400.00",612,7500,7000
+"1539",1539,"Dai Nippon Printing","Japan","$12,700.00",248,17000,6500
+"1540",1540,"Xerox","United States","$10,200.00",178,16200,7700
+"1541",1541,"Motorola Solutions","United States","$6,600.00",NA,9100,17600
+"1542",1542,"IHI","Japan","$14,300.00",75,15400,5600
+"1543",1543,"Hokuhoku Financial Group","Japan","$1,600.00",191,122200,2000
+"1544",1544,"Tosoh","Japan","$7,400.00",801,8000,6000
+"1545",1545,"Yunnan Baiyao Group","China","$3,700.00",487,4500,17300
+"1546",1546,"Great Eagle Holdings","Hong Kong","$1,200.00",1100,15500,3400
+"1547",1547,"Greentown China Holdings","China","$6,300.00",245,36200,3200
+"1548",1548,"Celltrion","South Korea","$898.00",374,3300,30300
+"1549",1549,"World Fuel Services","United States","$34,700.00",NA,5500,1500
+"1550",1550,"Caesars Entertainment","United States","$5,900.00",137,25200,8300
+"1551",1551,"Far East Horizon","Hong Kong","$2,800.00",478,34900,4100
+"1552",1552,"Polyus","Russia","$2,700.00",1200,6500,8300
+"1553",1553,"Techtronic Industries","Hong Kong","$6,100.00",471,5600,11200
+"1554",1554,"Petro Rabigh","Saudi Arabia","$10,000.00",379,16400,5900
+"1555",1555,"INTL FCStone","United States","$32,300.00",5,7200,883
+"1556",1556,"Two Harbors Investment","United States","$1,100.00",611,24100,2700
+"1557",1557,"Blom Bank","Lebanon","$2,300.00",486,33100,2300
+"1558",1558,"Xiamen Xiangyu","China","$31,600.00",122,8800,2100
+"1559",1559,"MMI Holdings","South Africa","$6,100.00",133,38200,2700
+"1560",1560,"Lindt & Sprungli","Switzerland","$4,200.00",458,7300,18100
+"1561",1561,"Beijing Shougang","China","$8,900.00",335,21600,3600
+"1562",1562,"Rajesh Exports","India","$30,400.00",189,3300,2800
+"1563",1563,"Sunny Optical Technology Group","China","$3,300.00",431,2400,19900
+"1564",1564,"Aurubis","Germany","$12,900.00",454,5600,4100
+"1565",1565,"Wistron","Taiwan","$27,500.00",128,11000,2100
+"1566",1566,"Colruyt","Belgium","$10,300.00",408,5000,8200
+"1567",1567,"Adient","Ireland","$16,800.00",164,13100,5200
+"1568",1568,"Hong Leong Financial","Malaysia","$2,000.00",379,56200,5500
+"1569",1569,"Kyushu Financial Group","Japan","$1,400.00",175,94800,2300
+"1570",1570,"Rongsheng Petrochemical","China","$10,900.00",304,11400,9400
+"1571",1571,"DSME","South Korea","$9,800.00",554,10700,2600
+"1572",1572,"Nishi-nippon Financial Holdings","Japan","$1,200.00",194,93700,1900
+"1573",1573,"Vertex Pharmaceuticals","United States","$2,400.00",226,4000,39700
+"1574",1574,"360 Security Technology","China","$321.00",10,3600,39300
+"1575",1575,"SBI Holdings","Japan","$2,600.00",421,42700,5900
+"1576",1576,"VEON","Netherlands","$9,800.00",NA,19500,4700
+"1577",1577,"El Puerto de Liverpool","Mexico","$6,800.00",545,8800,8200
+"1578",1578,"NetApp","United States","$5,800.00",NA,9800,19400
+"1579",1579,"Hopson Development Holdings","Hong Kong","$1,800.00",744,19700,2300
+"1580",1580,"Yamaguchi Financial","Japan","$1,400.00",299,90300,3200
+"1581",1581,"Bajaj Auto","India","$3,600.00",600,3500,12100
+"1582",1582,"China Longyuan Power","China","$3,600.00",543,22400,7100
+"1583",1583,"Banco Comercial Portugues","Portugal","$3,400.00",259,89400,5400
+"1584",1584,"Hero Motocorp","India","$5,000.00",577,2700,10700
+"1585",1585,"InterContinental Hotels","United Kingdom","$1,800.00",589,3200,12300
+"1586",1586,"North Pacific Bank","Japan","$1,200.00",124,89300,1500
+"1587",1587,"Goodman Group","Australia","$1,300.00",586,10100,12300
+"1588",1588,"STRABAG","Austria","$15,200.00",315,13600,4400
+"1589",1589,"ICA Gruppen","Sweden","$13,000.00",443,9500,6500
+"1590",1590,"Hachijuni Bank","Japan","$1,600.00",233,87500,2500
+"1591",1591,"ENN Energy Holdings","China","$7,200.00",413,9100,10400
+"1592",1592,"Fresnillo","Mexico","$2,100.00",562,4700,13000
+"1593",1593,"Equifax","United States","$3,400.00",525,7200,13800
+"1594",1594,"Wendel","France","$9,400.00",NA,17300,7000
+"1595",1595,"Halyk Bank","Kazakhstan","$2,400.00",531,26600,3600
+"1596",1596,"Rite Aid","United States","$26,200.00",NA,9000,1700
+"1597",1597,"Guangdong Investment","Hong Kong","$1,600.00",730,8500,10500
+"1598",1598,"Iliad","France","$5,600.00",449,10100,11800
+"1599",1599,"Old Republic International","United States","$6,300.00",451,19000,6300
+"1600",1600,"Noble Group","Hong Kong","$25,900.00",NA,4800,77
+"1601",1601,"Hiroshima Bank","Japan","$1,100.00",252,82600,2400
+"1602",1602,"Inner Mongolia Yitai","China","$5,500.00",759,13600,4300
+"1603",1603,"Israel Discount Bank","Israel","$2,800.00",350,63700,3300
+"1604",1604,"Bank of Kyoto","Japan","$981.00",200,81700,4500
+"1605",1605,"Adani Ports & Special Economic Zone","India","$1,800.00",561,7300,12700
+"1606",1606,"Piraeus Bank","Greece","$3,300.00",NA,81000,1700
+"1607",1607,"Tingyi Holding","China","$8,700.00",270,8300,11200
+"1608",1608,"EMS-Chemie Holding","Switzerland","$2,200.00",489,2200,14700
+"1609",1609,"Guoco Group","Hong Kong","$3,900.00",864,16400,4400
+"1610",1610,"Pearson","United Kingdom","$5,800.00",523,10700,9700
+"1611",1611,"VeriSign","United States","$1,200.00",475,2900,15500
+"1612",1612,"Chugoku Bank","Japan","$1,100.00",192,79600,2300
+"1613",1613,"Novozymes","Denmark","$2,200.00",495,3100,14400
+"1614",1614,"Jabil Circuit","United States","$20,400.00",122,11500,4700
+"1615",1615,"Metalurgica Gerdau","Brazil","$12,100.00",NA,15400,2100
+"1616",1616,"Companhia Brasileira de Distribuicao","Brazil","$14,100.00",234,13700,6000
+"1617",1617,"National Bank of Greece","Greece","$2,400.00",NA,77800,3400
+"1618",1618,"77 Bank","Japan","$898.00",189,75900,1800
+"1619",1619,"IDBI Bank","India","$4,800.00",NA,55800,3100
+"1620",1620,"Gunma Bank","Japan","$1,300.00",256,75300,2600
+"1621",1621,"Taylor Wimpey","United Kingdom","$5,100.00",715,6700,8700
+"1622",1622,"Anta Sports Products","China","$2,500.00",458,2900,16000
+"1623",1623,"China Communications Services","China","$14,000.00",401,10900,4500
+"1624",1624,"General Insurance Corporation Of India","India","$4,600.00",468,17200,8900
+"1625",1625,"Sime Darby Plantation","Malaysia","$3,400.00",818,7200,9400
+"1626",1626,"Alpha Bank","Greece","$3,500.00",103,73000,4100
+"1627",1627,"Lanxess","Germany","$11,500.00",123,12800,7500
+"1628",1628,"Sanan Optoelectronics","China","$1,200.00",519,4300,13300
+"1629",1629,"Uniqa","Austria","$5,900.00",222,33800,3700
+"1630",1630,"Chimera Investment","United States","$1,200.00",601,21300,3400
+"1631",1631,"SEB SA","France","$7,300.00",423,8000,9500
+"1632",1632,"Eurobank Ergasias","Greece","$2,200.00",117,72100,2600
+"1633",1633,"First Quantum Minerals","Canada","$4,000.00",NA,22100,11200
+"1634",1634,"Keppel","Singapore","$4,600.00",217,21100,11200
+"1635",1635,"Unicaja Banco","Spain","$1,500.00",173,71700,3100
+"1636",1636,"Cullen/Frost Bankers","United States","$1,300.00",383,31500,7600
+"1637",1637,"Suruga Bank","Japan","$1,400.00",407,39700,3100
+"1638",1638,"Banco Davivienda","Colombia","$3,600.00",432,33800,5200
+"1639",1639,"Vistra Energy","United States","$5,400.00",NA,14800,12000
+"1640",1640,"ServiceNow","United States","$2,100.00",NA,3700,31600
+"1641",1641,"Deutsche Pfandbriefbank","Germany","$2,000.00",205,69600,2200
+"1642",1642,"News Corp","United States","$8,400.00",NA,13400,8800
+"1643",1643,"Acciona","Spain","$8,200.00",248,20600,4600
+"1644",1644,"Bendigo & Adelaide Bank","Australia","$2,300.00",347,55700,3900
+"1645",1645,"Brambles","Australia","$5,100.00",469,8300,11800
+"1646",1646,"Spotify Technology","Luxembourg","$4,600.00",NA,3900,27000
+"1647",1647,"Haseko","Japan","$7,300.00",652,6500,4700
+"1648",1648,"LEG Immobilien AG","Germany","$958.00",1000,12400,7100
+"1649",1649,"Bed Bath & Beyond","United States","$12,300.00",425,7000,2400
+"1650",1650,"IndusInd Bank","India","$2,800.00",428,NA,16900
+"1651",1651,"Red Hat","United States","$2,900.00",259,5500,30600
+"1652",1652,"Dangote Cement","Nigeria","$2,400.00",572,4800,11600
+"1653",1653,"Gjensidige Forsikring","Norway","$3,600.00",486,19500,7900
+"1654",1654,"SDIC Essence","China","$1,900.00",381,25900,8300
+"1655",1655,"Bank Muscat","Oman","$1,500.00",463,29400,2900
+"1656",1656,"Iyo Bank","Japan","$999.00",213,66700,2500
+"1657",1657,"NARI Technology Development","China","$4,000.00",501,6900,13300
+"1658",1658,"Suzuken","Japan","$19,200.00",170,11100,4200
+"1659",1659,"Longi Green Energy Technology","China","$2,600.00",554,5500,11900
+"1660",1660,"Autodesk","United States","$2,000.00",NA,4100,29800
+"1661",1661,"Invitation Homes","United States","$1,000.00",NA,18700,12300
+"1662",1662,"Maxim Integrated Products","United States","$2,400.00",437,4600,16100
+"1663",1663,"Shanghai Fosun Pharmaceutical","China","$3,000.00",466,10100,14500
+"1664",1664,"Workday","United States","$2,100.00",NA,4900,29300
+"1665",1665,"Dexus","Australia","$718.00",1200,10800,7400
+"1666",1666,"Garmin","Switzerland","$3,200.00",587,4900,11200
+"1667",1667,"Moscow Exchange","Russia","$675.00",347,52600,4500
+"1668",1668,"Rexel","France","$15,400.00",121,12200,4700
+"1669",1669,"People's United Bank","United States","$1,700.00",374,44100,6500
+"1670",1670,"American Equity Investment","United States","$2,300.00",262,61300,2600
+"1671",1671,"Sany Heavy Industry","China","$6,200.00",430,10100,10300
+"1672",1672,"Luzhou Lao Jiao","China","$1,500.00",448,3200,15000
+"1673",1673,"Tractor Supply","United States","$7,400.00",434,3200,8600
+"1674",1674,"Grupo De Inversiones Suramericana","Colombia","$4,000.00",426,23200,7800
+"1675",1675,"Molina Healthcare","United States","$19,600.00",NA,9100,5200
+"1676",1676,"Aozora Bank","Japan","$1,200.00",373,43600,4700
+"1677",1677,"Cattolica Assicurazioni","Italy","$5,900.00",46,30300,1700
+"1678",1678,"Fluor","United States","$19,500.00",113,9400,6500
+"1679",1679,"Pinnacle West","United States","$3,600.00",468,17100,8700
+"1680",1680,"Vornado Realty","United States","$2,200.00",170,16900,13300
+"1681",1681,"CIT Group","United States","$3,200.00",279,51500,6800
+"1682",1682,"Crown Resorts","Australia","$2,500.00",1300,6500,7000
+"1683",1683,"Air Lease Corporation","United States","$1,500.00",782,15900,4600
+"1684",1684,"Tokyu Fudosan","Japan","$7,800.00",318,20500,4800
+"1685",1685,"Vipshop Holdings","China","$10,800.00",289,5800,8700
+"1686",1686,"Live Nation Entertainment","United States","$10,400.00",NA,9100,8900
+"1687",1687,"Catcher Technology","Taiwan","$3,300.00",781,7400,9000
+"1688",1688,"Eisai","Japan","$5,100.00",259,9300,19500
+"1689",1689,"American National Insurance","United States","$3,400.00",473,26500,3200
+"1690",1690,"Cybg","United Kingdom","$1,600.00",194,58000,3800
+"1691",1691,"Hubei Biocause Pharmaceutical","China","$6,800.00",235,23700,6100
+"1692",1692,"Empire","Canada","$18,700.00",91,7000,5200
+"1693",1693,"Toho Bank","Japan","$611.00",66,56700,986
+"1694",1694,"Xinhu Zhongbao","China","$2,600.00",563,20900,6000
+"1695",1695,"Grupo Televisa","Mexico","$5,100.00",208,15900,11400
+"1696",1696,"Lundin Petroleum","Sweden","$2,200.00",594,6000,10600
+"1697",1697,"Nippon Steel Trading","Japan","$18,600.00",196,7300,1900
+"1698",1698,"Daishi Bank","Japan","$667.00",124,56000,1500
+"1699",1699,"Diamondback Energy","United States","$1,500.00",509,8200,12200
+"1700",1700,"Motherson Sumi Systems","India","$8,000.00",239,5400,10600
+"1701",1701,"Avnet","United States","$18,600.00",NA,9700,4800
+"1702",1702,"Huaneng Lancang River Hydropower","China","$1,900.00",324,25100,9500
+"1703",1703,"Xinyu Iron & Steel","China","$7,900.00",560,5200,3000
+"1704",1704,"Nomura Research Institute","Japan","$4,300.00",498,6100,12500
+"1705",1705,"Virgin Money Holdings","United Kingdom","$1,300.00",247,55600,2100
+"1706",1706,"Alliant Energy","United States","$3,400.00",488,14200,9600
+"1707",1707,"Juroku Bank","Japan","$941.00",62,55200,975
+"1708",1708,"Banco de Chile","Chile","$3,900.00",133,55100,6500
+"1709",1709,"Makita","Japan","$4,300.00",494,6100,12500
+"1710",1710,"BayWa","Germany","$18,100.00",44,7800,1200
+"1711",1711,"Signature Bank","United States","$1,600.00",288,44400,7000
+"1712",1712,"Old Dominion Freight Line","United States","$3,500.00",507,3100,12100
+"1713",1713,"SYNNEX","United States","$18,100.00",261,7500,4400
+"1714",1714,"Commercial Bank For Investment & Development Of Vietnam","Vietnam","$4,200.00",311,53800,5100
+"1715",1715,"SinoPac Financial","Taiwan","$1,600.00",299,53700,4000
+"1716",1716,"SQM","Chile","$2,200.00",427,4400,15100
+"1717",1717,"WPG Holdings","Taiwan","$17,900.00",245,6200,2500
+"1718",1718,"Oi","Brazil","$7,500.00",NA,20700,885
+"1719",1719,"Vietin Bank","Vietnam","$3,400.00",345,48800,4800
+"1720",1720,"Atmos Energy","United States","$3,100.00",599,11400,9800
+"1721",1721,"Grupo Bolivar","Colombia","$4,700.00",359,36700,1500
+"1722",1722,"Taiwan Business Bank","Taiwan","$1,000.00",166,53200,1900
+"1723",1723,"Realty Income","United States","$1,200.00",313,14500,15100
+"1724",1724,"BCV Group","Switzerland","$1,200.00",325,46600,6900
+"1725",1725,"DGB Financial Group","South Korea","$2,600.00",267,53000,1800
+"1726",1726,"Rentokil Initial","United Kingdom","$3,100.00",879,4200,8000
+"1727",1727,"Performance Food Group","United States","$17,500.00",175,4000,3600
+"1728",1728,"Shiga Bank","Japan","$759.00",117,52200,1300
+"1729",1729,"Twitter","United States","$2,600.00",15,7500,24700
+"1730",1730,"Agilent Technologies","United States","$4,600.00",196,8700,22400
+"1731",1731,"CBOE Global Markets","United States","$2,700.00",499,5300,12000
+"1732",1732,"Ogaki Kyoritsu Bank","Japan","$718.00",67,51900,1100
+"1733",1733,"Saipem","Italy","$10,200.00",NA,15100,4000
+"1734",1734,"China Aviation Oil","Singapore","$17,000.00",87,2000,1100
+"1735",1735,"Nanto Bank","Japan","$655.00",120,51800,878
+"1736",1736,"Central Bank of India","India","$4,100.00",NA,51600,2700
+"1737",1737,"Hellenic Petroleum","Greece","$9,000.00",479,8600,2900
+"1738",1738,"Toyota Boshoku","Japan","$12,600.00",386,7000,3800
+"1739",1739,"Whitbread","United Kingdom","$4,300.00",574,6800,10500
+"1740",1740,"Delek Group","Israel","$1,500.00",359,41600,1800
+"1741",1741,"Hyosung","South Korea","$11,500.00",210,13600,4300
+"1742",1742,"Union National Bank","United Arab Emirates","$1,500.00",427,29300,2700
+"1743",1743,"Fangda Carbon New Material","China","$1,700.00",821,2500,8200
+"1744",1744,"Berkeley Group Holdings","United Kingdom","$3,700.00",978,6100,7600
+"1745",1745,"Orient","Japan","$2,000.00",253,51500,2500
+"1746",1746,"KWG Property Holding","Hong Kong","$1,700.00",537,20700,4500
+"1747",1747,"Sears Holdings","United States","$16,700.00",NA,7600,369
+"1748",1748,"Aareal Bank","Germany","$1,100.00",224,51000,3000
+"1749",1749,"Affiliated Managers Group","United States","$2,400.00",720,8600,8900
+"1750",1750,"Hyakugo Bank","Japan","$773.00",107,50900,1200
+"1751",1751,"Metropolitan Bank & Trust","Philippines","$2,100.00",365,39600,6600
+"1752",1752,"TP ICAP","United Kingdom","$2,300.00",112,50600,3400
+"1753",1753,"China Oriental Group","Hong Kong","$6,100.00",719,3700,2700
+"1754",1754,"First Pacific","Hong Kong","$7,300.00",121,20500,2200
+"1755",1755,"Hengan International Group","China","$2,900.00",562,6000,10600
+"1756",1756,"Banca Popolare di Sondrio","Italy","$1,300.00",180,50000,2100
+"1757",1757,"Bandai Namco Holdings","Japan","$6,100.00",488,5100,8400
+"1758",1758,"Credito Emiliano","Italy","$2,100.00",210,49900,2900
+"1759",1759,"Ingredion","United States","$5,800.00",535,6000,8100
+"1760",1760,"Hanwa","Japan","$16,200.00",157,8100,1900
+"1761",1761,"Essex Property Trust","United States","$1,400.00",345,12600,16000
+"1762",1762,"AmTrust Financial Services","United States","$6,100.00",290,25700,2600
+"1763",1763,"Brilliance China Automotive Holdings","Hong Kong","$784.00",647,5800,9400
+"1764",1764,"Bio-Rad Laboratories","United States","$2,200.00",759,6200,8500
+"1765",1765,"Core-Mark Holding","United States","$16,000.00",30,1700,880
+"1766",1766,"San-In Godo Bank","Japan","$808.00",112,49300,1500
+"1767",1767,"Align Technology","United States","$1,600.00",258,1800,23000
+"1768",1768,"Extra Space Storage","United States","$1,100.00",484,7500,12000
+"1769",1769,"Ares Capital","United States","$1,200.00",791,12700,7100
+"1770",1770,"Nuernberger Beteiligungs","Germany","$4,900.00",105,37100,965
+"1771",1771,"Tokyo TY Financial Group","Japan","$731.00",54,49100,818
+"1772",1772,"Senshu Ikeda Holdings","Japan","$847.00",90,48900,1100
+"1773",1773,"BRF","Brazil","$10,500.00",NA,14200,5300
+"1774",1774,"Liberbank","Spain","$887.00",NA,48300,1700
+"1775",1775,"Shandong Chenming Paper B HKD","China","$4,600.00",580,17000,4000
+"1776",1776,"B3","Brazil","$1,200.00",406,11700,13400
+"1777",1777,"RusHydro","Russia","$6,000.00",412,18000,5100
+"1778",1778,"TransUnion","United States","$2,000.00",452,5200,12800
+"1779",1779,"Maxis","Malaysia","$2,100.00",530,4900,10900
+"1780",1780,"BBVA Banco Continental","Peru","$1,800.00",432,23900,6800
+"1781",1781,"Bank of Qingdao","China","$1,900.00",279,47000,3600
+"1782",1782,"Tongyang Life Insurance","South Korea","$5,600.00",103,28300,1100
+"1783",1783,"Sunshine City Group","China","$4,900.00",313,36000,4700
+"1784",1784,"Square","United States","$2,400.00",NA,2400,22000
+"1785",1785,"Grupo Galicia","Argentina","$4,000.00",503,18100,7100
+"1786",1786,"Inventec","Taiwan","$15,400.00",222,7000,2800
+"1787",1787,"Syndicate Bank","India","$3,900.00",77,46300,1100
+"1788",1788,"Microchip Technology","United States","$4,000.00",255,8300,21800
+"1789",1789,"Supervalu","United States","$15,300.00",45,4400,623
+"1790",1790,"Empresas CMPC","Chile","$5,400.00",258,15200,10000
+"1791",1791,"Popular","Puerto Rico","$2,200.00",106,45800,4700
+"1792",1792,"Taiwan Mobile","Taiwan","$4,000.00",457,5300,12300
+"1793",1793,"Jiangsu Zhongnan Construction Group","China","$5,200.00",125,30200,4400
+"1794",1794,"Keiyo Bank","Japan","$574.00",109,45000,1200
+"1795",1795,"Hokkoku Bank","Japan","$601.00",92,44900,1200
+"1796",1796,"Nippon Paint","Japan","$5,400.00",331,8200,14400
+"1797",1797,"Ramsay Health Care","Australia","$6,800.00",368,6900,9800
+"1798",1798,"Yamada Denki","Japan","$14,200.00",269,11100,5000
+"1799",1799,"JB Financial Group","South Korea","$2,100.00",182,44500,888
+"1800",1800,"Kingboard Chemical Holdings","Hong Kong","$5,500.00",718,11300,4200
+"1801",1801,"United Utilities","United Kingdom","$2,200.00",543,16600,7100
+"1802",1802,"SK Networks","South Korea","$14,700.00",21,6800,1200
+"1803",1803,"Hella Kgaa Hueck &","Germany","$8,000.00",429,6900,7200
+"1804",1804,"Sydney Airport","Australia","$1,100.00",454,9600,12100
+"1805",1805,"Japan Securities","Japan","$240.00",36,43700,593
+"1806",1806,"Hyatt Hotels","United States","$4,400.00",590,8000,9500
+"1807",1807,"Sysmex","Japan","$2,500.00",354,3000,18100
+"1808",1808,"Fastighets Balder","Sweden","$694.00",833,13000,4900
+"1809",1809,"Hyakujushi Bank","Japan","$643.00",79,43100,990
+"1810",1810,"Remgro","South Africa","$2,000.00",552,9600,10200
+"1811",1811,"Genting","Malaysia","$4,700.00",322,23200,8300
+"1812",1812,"ONO Pharmaceutical","Japan","$2,400.00",454,5700,12100
+"1813",1813,"EFG International","Switzerland","$1,600.00",NA,42700,2300
+"1814",1814,"Tapestry","United States","$5,500.00",338,6600,13300
+"1815",1815,"Broadridge Financial","United States","$4,400.00",408,3500,13900
+"1816",1816,"BOK Financial","United States","$1,700.00",348,33400,6800
+"1817",1817,"Safaricom","Kenya","$2,200.00",492,1800,11100
+"1818",1818,"First Citizens BancShares","United States","$1,600.00",356,34400,5300
+"1819",1819,"GS Engineering","South Korea","$10,900.00",95,12800,2900
+"1820",1820,"Kiyo Bank","Japan","$631.00",105,42200,1200
+"1821",1821,"Harel Insurance Investments & Financial Services","Israel","$5,100.00",190,29900,1600
+"1822",1822,"Land Securities Group","United Kingdom","$1,000.00",221,19900,9800
+"1823",1823,"United Aircraft","Russia","$7,700.00",NA,17200,4800
+"1824",1824,"Basler Kantonalbank","Switzerland","$748.00",153,41800,397
+"1825",1825,"NiSource","United States","$5,000.00",193,20100,8400
+"1826",1826,"Barry Callebaut","Switzerland","$7,000.00",343,6500,10000
+"1827",1827,"Banque Centrale Populaire","Morocco","$2,700.00",293,41000,5700
+"1828",1828,"Grand Industrial Holding","China","$14,000.00",NA,1200,898
+"1829",1829,"Sino Biopharmaceutical","Hong Kong","$2,200.00",321,3200,19800
+"1830",1830,"NH Investment & Securities","South Korea","$1,300.00",310,41000,4700
+"1831",1831,"MTU Aero Engines AG","Germany","$5,700.00",427,7600,9400
+"1832",1832,"RMB Holdings","South Africa","$2.00",624,3600,8900
+"1833",1833,"Hengli Petrochemical","China","$4,500.00",383,11800,13200
+"1834",1834,"Korea Zinc","South Korea","$5,800.00",556,6600,7200
+"1835",1835,"Power Finance","India","$4,100.00",334,40000,3300
+"1836",1836,"First Horizon National","United States","$1,700.00",202,40500,6200
+"1837",1837,"Pou Chen","Taiwan","$9,200.00",425,10100,3700
+"1838",1838,"Commercial Bank of Qatar","Qatar","$1,800.00",186,40200,4000
+"1839",1839,"Unisplendour","China","$6,200.00",228,6800,11400
+"1840",1840,"Musashino Bank","Japan","$532.00",95,39900,1100
+"1841",1841,"Bank of Queensland","Australia","$1,800.00",282,39900,3000
+"1842",1842,"Isetan Mitsukoshi Holdings","Japan","$11,400.00",NA,12100,4700
+"1843",1843,"China National Chemical","China","$9,500.00",249,13800,6000
+"1844",1844,"CSPC Pharmaceutical Group","Hong Kong","$2,000.00",356,2800,16800
+"1845",1845,"Marks & Spencer","United Kingdom","$13,600.00",234,10600,6500
+"1846",1846,"Marine Harvest ASA","Norway","$4,100.00",509,5200,10400
+"1847",1847,"Amorepacific","South Korea","$4,500.00",312,5300,18700
+"1848",1848,"FIBI Holdings","Israel","$1,300.00",90,39100,883
+"1849",1849,"Credit Bank of Moscow","Russia","$2,500.00",355,32800,2100
+"1850",1850,"Li & Fung","Hong Kong","$13,500.00",218,6500,4600
+"1851",1851,"Zalando","Germany","$5,500.00",97,3700,12900
+"1852",1852,"Coca-Cola West","Japan","$8,900.00",233,8400,8300
+"1853",1853,"EasyJet","United Kingdom","$6,400.00",386,8000,9200
+"1854",1854,"Shenzhen Investment","Hong Kong","$1,400.00",635,15000,3300
+"1855",1855,"Jones Lang LaSalle","United States","$9,900.00",284,9200,7800
+"1856",1856,"Dixons Carphone","United Kingdom","$13,500.00",303,10400,3500
+"1857",1857,"Luzerner Kantonalbank","Switzerland","$642.00",208,38700,4700
+"1858",1858,"Laurentian Bank","Canada","$1,300.00",169,38700,1600
+"1859",1859,"UOL Group","Singapore","$1,500.00",645,14700,5500
+"1860",1860,"Bank of Greece","Greece","$1,700.00",1100,NA,354
+"1861",1861,"Dali Foods Group","China","$2,900.00",508,2500,10300
+"1862",1862,"Corporation Bank","India","$3,400.00",84,38300,714
+"1863",1863,"Sinotruk Hong Kong","China","$8,200.00",448,9400,3400
+"1864",1864,"Michael Kors Holdings","United Kingdom","$4,600.00",521,4200,9600
+"1865",1865,"China Petroleum Engineering","China","$8,500.00",64,14700,3500
+"1866",1866,"Konka Group","China","$5,200.00",769,3700,1800
+"1867",1867,"Advanced Micro Devices","United States","$6,000.00",197,3800,11600
+"1868",1868,"Financial Street Holdings","China","$3,400.00",455,21100,4200
+"1869",1869,"Orkla","Norway","$5,000.00",482,6700,9400
+"1870",1870,"Palo Alto Networks","United States","$2,000.00",NA,3600,18600
+"1871",1871,"E-L Financial","Canada","$1,200.00",515,18100,2600
+"1872",1872,"Indian Overseas Bank","India","$3,300.00",NA,37600,1300
+"1873",1873,"Toll Brothers","United States","$6,100.00",597,9600,6500
+"1874",1874,"Bank of the Ozarks","United States","$1,100.00",446,22000,6200
+"1875",1875,"NKT","Denmark","$1,700.00",1000,2400,801
+"1876",1876,"SBA Communications","United States","$1,800.00",98,7400,18400
+"1877",1877,"Far Eastern New Century","Taiwan","$7,200.00",265,17400,5100
+"1878",1878,"IDEXX Laboratories","United States","$2,000.00",284,1500,18400
+"1879",1879,"Olin","United States","$6,400.00",557,9200,5500
+"1880",1880,"Oriental Bank of Commerce","India","$3,200.00",NA,37000,777
+"1881",1881,"Murphy USA","United States","$13,100.00",288,2300,2200
+"1882",1882,"Allahabad Bank","India","$3,100.00",NA,36600,573
+"1883",1883,"Asian Paints","India","$2,500.00",310,2000,18400
+"1884",1884,"Want Want China","China","$2,800.00",449,3800,11400
+"1885",1885,"CF Industries Holdings","United States","$4,100.00",444,13500,9200
+"1886",1886,"Mettler-Toledo International","United States","$2,800.00",377,2500,14300
+"1887",1887,"PacWest Bancorp","United States","$1,200.00",393,24100,6800
+"1888",1888,"Seiko Epson","Japan","$9,900.00",378,9700,6700
+"1889",1889,"Spirit AeroSystems","United States","$7,000.00",338,5400,9600
+"1890",1890,"H Lundbeck","Denmark","$2,600.00",398,3200,13100
+"1891",1891,"Berry Global Group","United States","$7,500.00",470,9100,6500
+"1892",1892,"Founder Securities","China","$1,000.00",206,23800,8000
+"1893",1893,"Tahoe Group","China","$3,600.00",322,36100,5100
+"1894",1894,"Jaccs","Japan","$1,200.00",74,36000,785
+"1895",1895,"Burlington Stores,","United States","$6,100.00",385,2800,9400
+"1896",1896,"Thor Industries","United States","$8,200.00",439,2700,5100
+"1897",1897,"Wirecard","Germany","$1,700.00",293,5500,18000
+"1898",1898,"Jinke Property Group","China","$5,200.00",305,25900,4600
+"1899",1899,"Shandong Gold Mining","China","$8,300.00",175,6700,8400
+"1900",1900,"Inmobiliaria Colonial,","Spain","$326.00",770,12600,5200
+"1901",1901,"SES","Luxembourg","$2,300.00",619,14700,6000
+"1902",1902,"Sabesp","Brazil","$4,600.00",789,11900,5500
+"1903",1903,"Cimarex Energy","United States","$2,000.00",541,5300,9400
+"1904",1904,"Inchcape","United Kingdom","$11,500.00",346,6600,4200
+"1905",1905,"Xylem","United States","$4,800.00",354,7400,13200
+"1906",1906,"CPI Property Group.","Luxembourg","$542.00",783,9100,7200
+"1907",1907,"Liuzhou Iron & Steel","China","$6,600.00",527,3600,2900
+"1908",1908,"Banco BPI","Portugal","$1,100.00",12,35600,2500
+"1909",1909,"Samsung Securities","South Korea","$1,100.00",240,35400,3100
+"1910",1910,"GPT Group","Australia","$543.00",973,10100,6600
+"1911",1911,"AmBank Group","Malaysia","$1,700.00",283,35300,2800
+"1912",1912,"JC Penney","United States","$12,500.00",NA,8600,891
+"1913",1913,"Tech Mahindra","India","$4,600.00",486,4500,9700
+"1914",1914,"Grupo Zuliano","Venezuela","undefined",999,NA,139
+"1915",1915,"Andhra Bank","India","$3,200.00",31,34700,648
+"1916",1916,"Nippon Paper Industries","Japan","$9,300.00",200,13100,2200
+"1917",1917,"Dollarama","Canada","$2,500.00",402,1600,12600
+"1918",1918,"Hokkaido Electric Power","Japan","$6,600.00",149,18000,1500
+"1919",1919,"Bank of Nagoya","Japan","$562.00",49,34600,714
+"1920",1920,"Frasers Centrepoint","Singapore","$2,900.00",417,22800,4300
+"1921",1921,"Alexandria Real Estate Equities","United States","$1,200.00",257,12800,13200
+"1922",1922,"Zall Development Group","China","$3,400.00",353,7300,15100
+"1923",1923,"Tongling Nonferrous Metals","China","$12,300.00",92,7700,4300
+"1924",1924,"Aristocrat Leisure","Australia","$1,900.00",377,2600,13600
+"1925",1925,"Kuwait Projects","Kuwait","$2,000.00",54,34300,1100
+"1926",1926,"IPG Photonics","United States","$1,500.00",379,2500,13500
+"1927",1927,"Kesko","Finland","$12,300.00",314,5900,5900
+"1928",1928,"Dufry","Switzerland","$8,700.00",72,10200,7900
+"1929",1929,"ITV","United Kingdom","$4,000.00",527,4500,9400
+"1930",1930,"Steel Authority of India","India","$6,600.00",NA,17800,4500
+"1931",1931,"Shanghai Lujianzi","China","$1,200.00",509,12600,8200
+"1932",1932,"Aeroflot-Russian Airlines","Russia","$9,100.00",392,5900,2500
+"1933",1933,"ISS","Denmark","$12,100.00",304,8300,6500
+"1934",1934,"Indian Bank","India","$2,700.00",217,33700,2300
+"1935",1935,"Fibria Celulose","Brazil","$4,200.00",426,11500,10900
+"1936",1936,"Banque Marocaine Du Commerce Exterieur","Morocco","$1,900.00",210,33500,4100
+"1937",1937,"Tomony Holdings","Japan","$582.00",105,33500,752
+"1938",1938,"Fraser & Neave","Singapore","$1,400.00",954,3600,2300
+"1939",1939,"Heilan Home","China","$2,800.00",521,4400,9400
+"1940",1940,"Sichuan Changhong Electric","China","$12,000.00",58,10500,2200
+"1941",1941,"KBC Ancora","Belgium","$245.00",953,3800,4600
+"1942",1942,"Splunk","United States","$1,300.00",NA,2000,16800
+"1943",1943,"Synnex Technology Intl","Taiwan","$12,000.00",201,4700,2400
+"1944",1944,"St Galler Kantonalbank","Switzerland","$594.00",159,33500,3000
+"1945",1945,"Sun Pharma Industries","India","$4,100.00",319,9900,16800
+"1946",1946,"Bank of Iwate","Japan","$408.00",50,33400,709
+"1947",1947,"Mirae Asset Life Insurance","South Korea","$3,100.00",196,33400,909
+"1948",1948,"CNX Resources","United States","$1,800.00",947,8100,3400
+"1949",1949,"UCO Bank","India","$2,400.00",NA,33400,530
+"1950",1950,"Associated Banc-Corp","United States","$1,300.00",241,33400,4600
+"1951",1951,"Fortune Brands Home & Security","United States","$5,400.00",470,5600,8200
+"1952",1952,"Match Group","United States","$1,400.00",431,2200,11200
+"1953",1953,"Avery Dennison","United States","$6,800.00",295,5300,9500
+"1954",1954,"Envision Healthcare","United States","$8,000.00",116,14400,5100
+"1955",1955,"Snap-on","United States","$4,100.00",579,5300,8400
+"1956",1956,"Crown Holdings","United States","$9,000.00",306,13100,6000
+"1957",1957,"Thanachart Capital","Thailand","$2,000.00",221,32800,1800
+"1958",1958,"CNO Financial Group","United States","$4,200.00",198,32800,3300
+"1959",1959,"Abiomed","United States","$594.00",112,786,16500
+"1960",1960,"Shanghai Ganglian E-Commerce Holdings","China","$11,800.00",10,1700,1600
+"1961",1961,"Hakuhodo DY Holdings","Japan","$11,700.00",263,6600,5300
+"1962",1962,"Zenith Bank","Nigeria","$2,200.00",543,15800,2500
+"1963",1963,"Chaparral Energy","United States","$294.00",923,1200,988
+"1964",1964,"Assured Guaranty","Bermuda","$1,300.00",610,13900,3900
+"1965",1965,"NH Foods","Japan","$11,400.00",335,7100,4400
+"1966",1966,"Bureau Veritas Registre International de Classific","France","$5,300.00",348,6400,11300
+"1967",1967,"Don Quijote Holdings","Japan","$8,200.00",300,7500,8000
+"1968",1968,"Jointown Pharmaceutical Group","China","$11,600.00",224,9600,5300
+"1969",1969,"Ford Otosan","Turkey","$7,400.00",449,3300,4600
+"1970",1970,"Sumitomo Rubber","Japan","$8,100.00",416,9500,4600
+"1971",1971,"Sembcorp Industries","Singapore","$6,600.00",106,17200,4100
+"1972",1972,"Bid Corp.","South Africa","$9,400.00",307,4500,7400
+"1973",1973,"Fuyo General Lease","Japan","$5,300.00",198,22900,2300
+"1974",1974,"Signet Jewelers","Bermuda","$6,300.00",519,5800,2300
+"1975",1975,"Southwestern Energy","United States","$3,300.00",903,7700,2500
+"1976",1976,"Group 1 Automotive","United States","$11,500.00",208,5100,1400
+"1977",1977,"Alps Electric","Japan","$7,700.00",428,6300,4900
+"1978",1978,"F.N.B.","United States","$1,300.00",263,31700,4300
+"1979",1979,"Yamaha","Japan","$3,900.00",491,5300,9600
+"1980",1980,"Constellation Software","Canada","$2,600.00",263,2600,16100
+"1981",1981,"FinecoBank","Italy","$967.00",242,26900,7100
+"1982",1982,"LG International","South Korea","$11,400.00",NA,4600,940
+"1983",1983,"Saudi Investment Bank","Saudi Arabia","$1,200.00",381,24400,3400
+"1984",1984,"Thomas Cook Group","United Kingdom","$11,400.00",17,8900,2800
+"1985",1985,"Sinotrans Ltd.","China","$10,800.00",342,9500,3600
+"1986",1986,"Telecom Argentina","Argentina","$3,900.00",461,3100,10200
+"1987",1987,"Synovus Financial","United States","$1,500.00",307,31500,6400
+"1988",1988,"HCP","United States","$1,800.00",NA,14100,11300
+"1989",1989,"Securitas","Sweden","$11,100.00",336,6200,5900
+"1990",1990,"Nanjing Iron & Steel","China","$5,900.00",552,6400,3200
+"1991",1991,"Electricity Generating","Thailand","$972.00",878,6600,3800
+"1992",1992,"Vingroup","Vietnam","$4,600.00",203,9800,14400
+"1993",1993,"Awa Bank","Japan","$593.00",107,30900,1500
+"1994",1994,"MSCI","United States","$1,300.00",346,3300,14300
+"1995",1995,"Uralkali","Russia","$2,800.00",874,9000,5000
+"1996",1996,"Fabege AB","Sweden","$281.00",874,7500,3900
+"1997",1997,"SEI Investments","United States","$1,600.00",456,1900,10200
+"1998",1998,"Sumec Corporation","China","$11,300.00",55,6900,1200
+"1999",1999,"BioMarin Pharmaceutical","United States","$1,400.00",NA,4600,15600
+"2000",2000,"China Agri-Industries","Hong Kong","$11,300.00",261,8600,2200
+"2001",NA,"","","",NA,NA,NA
