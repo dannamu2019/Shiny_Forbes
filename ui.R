@@ -13,13 +13,13 @@ ui<-dashboardPage(
   dashboardSidebar(
     sidebarUserPanel("Yan Mu", image = 'Forbes.jpg'),
     sidebarMenu(
-      menuItem("Introduction",tabName="intro",icon=icon("list-alt")),
-      menuItem("Ranking Data Exploer",tabName="ranking",icon=icon("table")),
-      menuItem("Company", tabName="top_profits_companies",icon=icon("alicorn")),
-      menuItem("Countries", tabName="top_ranking_countries",icon=icon("alicorn")),
-      menuItem("Industries", tabName="top_ranking_industries",icon =icon("flag-checkered")),
-      menuItem("Analysis",tabName="profits_volitilities", icon=icon("analytics")),
-      menuItem("References",tabName = "references",icon =icon("asterisk"))
+      menuItem("Introduction",tabName="intro",icon=icon("edit")),
+      menuItem("Ranking Data Exploer",tabName="ranking",icon=icon("chart-line")),
+      menuItem("Company", tabName="top_profits_companies",icon=icon("award")),
+      menuItem("Countries", tabName="top_ranking_countries",icon=icon("flag-checkered")),
+      menuItem("Industries", tabName="top_ranking_industries",icon =icon("cogs")),
+      menuItem("Analysis",tabName="profits_volitilities", icon=icon("chart-bar")),
+      menuItem("References",tabName = "references",icon =icon("folder-open"))
     ),
     selectizeInput(
       "year",
@@ -81,7 +81,7 @@ ui<-dashboardPage(
                 )
               )
       ),
-      # #####################################################
+      ######################################################
       tabItem(tabName ="top_ranking_countries",
               fluidRow(
                 column(
@@ -103,20 +103,20 @@ ui<-dashboardPage(
                     title = "US vs China",
                     solidHeader = T,
                     status = "info",
-                    tags$img(src = 'us_vs_china.png', width=600, height=400),
+                    tags$img(src = 'us_vs_china.png', width=550, height=450),
                     width = NULL,
                     height = "auto"
                   )
                 )
               )
       ),
-      # ##################################################################################
+      #############################################################
       tabItem(tabName = "top_ranking_industries",
               fluidRow(
                 column(
                   width = 9,
                   box(
-                    title = " Top industries of the Global 2000",
+                    title = " Top Industries",
                     solidHeader = T,
                     status = "info",
                     plotlyOutput("breakdown_sector2017"),
@@ -127,14 +127,14 @@ ui<-dashboardPage(
                 )
               )
       ),
-      # #################################
+      ################################################################
       tabItem(
         tabName = "profits_volitilities",
         fluidRow(
           column(
             width = 9,
             box(
-              title = " 2018 USA breakdown by profits",
+              title = " Volatility Research",
               solidHeader = T,
               status = "info",
               plotlyOutput("breakdown_profit2018USA"),
@@ -147,14 +147,15 @@ ui<-dashboardPage(
         )
       ),
       
-      ##################################
+      ###############################################################
       tabItem(tabName = "references",
               fluidRow(
                 box(
                   strong("My Shiny Project code:"),
                   tags$br(),
                   tags$a(
-                    href = "","-> Link to GitHub"),
+                    href = "https://github.com/dannamu2019/Shiny_Forbes","-> Link to GitHub"),
+                  tags$br(),
                   tags$br(),
                   strong("Dataset Links:"),
                   tags$br(),
@@ -174,6 +175,19 @@ ui<-dashboardPage(
                   tags$p("3)	Notable newcomers from M&A and IPO hit the ranking"),
                   tags$p("4)   How USA ranking effect Global 2000?"),
                   tags$p("5)   International competitiveness between countries")
+                )
+              ),
+              fluidRow(
+                column(
+                  width = 9,
+                  box(
+                    title = "Notable U.S.Newcomers",
+                    solidHeader = T,
+                    status = "info",
+                    tags$img(src = 'Notable.png', width=800, height=500),
+                    width = NULL,
+                    height = "auto"
+                  )
                 )
               )
       )
