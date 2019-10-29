@@ -125,6 +125,7 @@ shinyServer(function(input, output){
   })
 
   # 4 Top industries of the Global 2000?
+  # Sector
   output$breakdown_sector2017<-renderPlotly({
     table2017=data2017%>%
       group_by(.,Sector)%>%
@@ -134,7 +135,7 @@ shinyServer(function(input, output){
     table2017 = table2017[2:11,]
     ggplotly(table2017 %>%
       ggplot(aes(x=reorder(Sector, count),y=count))+
-      geom_bar(stat='identity',aes(fill=Sector))+ labs(title='2017 Sector') +
+      geom_bar(stat='identity',aes(fill=Sector))+ labs(title='2017 Top industries of the Global 2000') +
       coord_flip())
   })
   
@@ -146,10 +147,10 @@ shinyServer(function(input, output){
       top_n(10)
     ggplotly(table2018_num %>% 
       ggplot(aes(x=reorder(Sector, count),y=count))+
-      geom_bar(stat='identity',aes(fill=Sector))+ labs(title='2018 USA Sector') +
+      geom_bar(stat='identity',aes(fill=Sector))+ labs(title='2018 Top industries of USA 1000') +
       coord_flip())
   })
-  # profit
+  # Profit
   output$breakdown_profit2018USA<-renderPlotly({
     table2018_profits=data2018_USA%>%
       group_by(.,Sector)%>%
@@ -158,7 +159,7 @@ shinyServer(function(input, output){
       top_n(10)
     ggplotly(table2018_profits %>%
                ggplot(aes(x=reorder(Sector, Profits),y=Profits))+
-               geom_bar(stat='identity',aes(fill=Sector))+ labs(title='2018 USA Profit') +
+               geom_bar(stat='identity',aes(fill=Sector))+ labs(title='2018 USA Profit Breakdown by Sector') +
                coord_flip())
   })
   # 6 2018_USA -profit analysis
@@ -166,7 +167,7 @@ shinyServer(function(input, output){
   output$breakdown_rankvol2018USA<-renderPlotly({
     data2018_PC_rank=data2018_USA%>%arrange(desc(data2018_USA$Profit.Change))%>%top_n(100)
     ggplotly(data2018_PC_rank %>% ggplot(aes(x=rank, y=Profit.Change))+
-      geom_point(aes(color="red"),position="jitter") + labs(title="2018 USA Rank Volatility"))
+      geom_point(aes(color="red"),position="jitter") + labs(title="2018 USA Ranking Volatility"))
   })
   
   # Sector Volitility
@@ -176,6 +177,7 @@ shinyServer(function(input, output){
                geom_point(aes(color=Sector),position="jitter") + labs(title="2018 USA Sector Volatility"))
   })
   
+  # 7
   output$dynamic_data_table <- DT::renderDataTable({
     if (input$year == '2017'){
       data2017
